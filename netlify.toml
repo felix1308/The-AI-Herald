@@ -1,0 +1,19 @@
+# DEPRECATED: this project now runs as a Docker container (see Dockerfile, server.js,
+# lib/generate.js) deployed to Hugging Face Spaces instead of Netlify. This file and
+# the netlify/ directory are kept for reference only and are no longer used.
+[build]
+  publish = "public"
+  functions = "netlify/functions"
+
+[build.environment]
+  NODE_VERSION = "18"
+
+[[redirects]]
+  from = "/api/newsletter"
+  to = "/.netlify/functions/get-newsletter"
+  status = 200
+
+[[redirects]]
+  from = "/api/generate-now"
+  to = "/.netlify/functions/manual-generate"
+  status = 200
