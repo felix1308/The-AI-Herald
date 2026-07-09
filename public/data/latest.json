@@ -1,11 +1,11 @@
 {
-  "issueDate": "2026-07-09T09:21:57.116Z",
+  "issueDate": "2026-07-09T10:08:54.904Z",
   "issueLabel": "July 9, 2026",
   "volume": 28,
   "automotive": {
     "lead": {
       "headline": "TESLA HITS THE STREETS WITH CYBERCAB PUBLIC ROAD TESTS",
-      "summary": "In a bold leap forward for the driverless future, Tesla has officially commenced public road testing of its highly anticipated Cybercab in Austin, Texas. The two-seat robotaxi is mixing it up with real-world city traffic for the very first time, marking a major milestone toward a driverless ride-hailing service. Observers are watching closely as the electric vehicle titan aims to prove its autonomous tech can handle the unpredictable hustle of everyday urban streets.",
+      "summary": "The electric vehicle giant has taken its futuristic two-seat Cybercab out of the lab and onto the public roads of Austin, Texas. Engineering tests are officially underway in real-world city traffic, marking a massive leap toward a fully driverless ride-hailing service. This early step puts the company's autonomous taxi ambitions to the ultimate test on public asphalt.",
       "category": "AUTONOMOUS VEHICLES",
       "source": "Digitimes",
       "url": "https://www.digitimes.com/news/a20260706PD247/tesla-austin-production-vehicle-texas.html",
@@ -14,8 +14,8 @@
     },
     "stories": [
       {
-        "headline": "Regulatory Loophole Grants Free Waymo Rides",
-        "summary": "A bureaucratic bottleneck at a California state agency has handed a sweet deal to local commuters. Due to a key regulatory delay, Waymo's brand-new Ojai robotaxi rides are slated to remain absolutely free of charge for a few more months.",
+        "headline": "Regulatory Quirk Grants Free Waymo Rides In California",
+        "summary": "A bureaucratic delay from a California state agency has handed passengers a lucky break. Robotaxi rides in Waymo's new Ojai vehicle might remain completely free of charge for a few more months. Commuters are cheering the regulatory sluggishness as they enjoy free high-tech travel.",
         "category": "REGULATION",
         "source": "Wired",
         "url": "https://www.wired.com/story/a-california-regulatory-quirk-means-free-waymo-rides/",
@@ -23,107 +23,107 @@
         "publishedAt": "2026-07-08T09:00:00Z"
       },
       {
-        "headline": "July Fourth Fireworks Clog Waymo Fleet",
-        "summary": "Independence Day celebrations turned into a mechanical headache in San Francisco as a fleet of Waymo robotaxis became hopelessly gridlocked. Some driverless cabs ran out of battery mid-traffic, while others shockingly drove straight into active fireworks displays, leaving passengers terrified.",
-        "category": "SAFETY",
-        "source": "Livedoor.com",
-        "url": "https://news.livedoor.com/article/detail/31770213/",
-        "image": "https://image.news.livedoor.com/newsimage/stf/e/5/e5de0_88_d30bc41e0c735c15159c01857ce4636a.jpg",
-        "publishedAt": "2026-07-08T02:20:00Z"
-      },
-      {
-        "headline": "Joyriding Teens Nabbed in High-Tech Robotaxi Bust",
-        "summary": "A wild teenage escapade in California came to a screeching halt after youths used a robotaxi as a mobile base for mischief. Local police intercepted the autonomous vehicle after the intoxicated teens fired water-bead guns at unsuspecting citizens from the windows.",
-        "category": "CRIME",
+        "headline": "Joyriding Teens Nabbed After High-Tech Robotaxi Takedown",
+        "summary": "A wild joyride ended in handcuffs after a group of California teenagers used a robotaxi as a rolling fortress. Police intercepted the vehicle after the youths allegedly blasted a local city with water beads and consumed alcohol inside. The autonomous cruiser eventually pulled over on its own, delivering the suspects straight to the law.",
+        "category": "CRIME & TECH",
         "source": "New York Post",
         "url": "https://nypost.com/2026/07/07/us-news/joyriding-teens-blast-california-city-with-bbs-before-shocking-high-tech-takedown/",
         "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/133672375.jpg?quality=75&strip=all&w=1200",
         "publishedAt": "2026-07-07T23:33:35Z"
       },
       {
-        "headline": "Momenta Debuts in Hong Kong with Modest Gain",
-        "summary": "Chinese self-driving pioneer Momenta made its highly anticipated stock market debut in Hong Kong, raising a staggering $751 million. Despite the massive capital injection, shares posted a muted three-percent gain on opening day as investors remain cautious on autonomous profitability.",
-        "category": "FINANCE",
+        "headline": "GM-Backed Momenta Debuts Muted In Hong Kong",
+        "summary": "The highly anticipated public market debut of self-driving outfit Momenta fell flat on its face in Hong Kong. Shares of the GM-backed unicorn rose a meager 2.8 percent on opening day. Wall Street watchers blame growing investor skepticism over when, if ever, autonomous vehicles will turn a profit.",
+        "category": "WALL STREET",
         "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/d14c5f1993693396",
-        "image": "https://biztoc.com/cdn/d14c5f1993693396_s.webp",
-        "publishedAt": "2026-07-08T02:01:11Z"
+        "url": "https://biztoc.com/x/7e8607ef9c996782",
+        "image": "https://biztoc.com/cdn/995/og.png",
+        "publishedAt": "2026-07-08T04:32:54Z"
       },
       {
-        "headline": "China Cost Cuts Fuel Trillion-Dollar Robotaxi Hope",
-        "summary": "A new dispatch from Morgan Stanley reveals that plummeting supply chain costs in China could supercharge the autonomous taxi market to a whopping $1 trillion valuation by 2040. Industry giants Waymo and Tesla are poised to lead the global charge alongside rapidly scaling Chinese rivals.",
+        "headline": "China Cost Cuts Fuel Trillion-Dollar Robotaxi Dream",
+        "summary": "Slashed supply chain costs in China are putting the global autonomous taxi market on a fast track to a one-trillion-dollar valuation by 2040. Financial heavyweights at Morgan Stanley predict a fierce global race led by Waymo and Tesla, with Chinese rivals scaling rapidly. Cheap manufacturing is proving to be the ultimate fuel for the driverless revolution.",
         "category": "MARKET FORECAST",
         "source": "Digitimes",
         "url": "https://www.digitimes.com/news/a20260708PD228/robotaxi-market-cost-supply-chain-tesla.html",
         "image": "https://img.digitimes.com/newsshow/20260708pd228_files/2_b.jpg",
         "publishedAt": "2026-07-08T04:00:52Z"
+      },
+      {
+        "headline": "Fireworks And Traffic Clogs Strand Waymo Fleet",
+        "summary": "Independence Day celebrations turned into a mechanical nightmare for Waymo's robotaxis in San Francisco. A fleet of the driverless cabs became hopelessly gridlocked in heavy traffic, with several running out of battery power entirely. Terrified passengers watched as the autonomous vehicles drove straight toward exploding street fireworks.",
+        "category": "SAFETY",
+        "source": "Livedoor.com",
+        "url": "https://news.livedoor.com/article/detail/31770213/",
+        "image": "https://image.news.livedoor.com/newsimage/stf/e/5/e5de0_88_d30bc41e0c735c15159c01857ce4636a.jpg",
+        "publishedAt": "2026-07-08T02:20:00Z"
       }
     ]
   },
   "general": {
     "lead": {
-      "headline": "NVIDIA SHEDS ONE TRILLION DOLLARS IN HISTORIC VALUATION SLIDE",
-      "summary": "The high-flying darling of the artificial intelligence boom has suffered a staggering blow, shedding nearly $1 trillion in market value over a tumultuous two-month span. Nvidia Corp.'s stock has plummeted to its cheapest valuation relative to earnings since before the generative AI craze took Wall Street by storm. The massive sell-off sends shockwaves through the financial district, raising urgent questions about the sustainability of the tech sector's massive AI investments.",
-      "category": "MARKET CRASH",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/nvidias-1-trillion-slide-sends-valuation-to-pre-ai-boom-levels",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/nvidias-relatively-cheap-valuation-high-revenue-growth-and-.jpg",
-      "publishedAt": "2026-07-08T09:00:36Z"
+      "headline": "OPENAI SECURES GOVERNMENT GREEN LIGHT FOR POWERFUL GPT-5.6 RELEASE",
+      "summary": "Uncle Sam has cleared the way for the next big leap in artificial intelligence. The U.S. Department of Commerce officially gave OpenAI the green light to roll out its highly anticipated and advanced GPT-5.6 model series. The green light comes after a tense delay sparked by government anxieties over potential cybersecurity risks. Tech circles expect the powerful brain to hit the public as early as this week.",
+      "category": "REGULATION",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/f99397b0da0c57dd",
+      "image": "https://biztoc.com/cdn/f99397b0da0c57dd_s.webp",
+      "publishedAt": "2026-07-08T09:36:47Z"
     },
     "stories": [
       {
-        "headline": "DeepSeek Builds Custom Chip to Evade US Restrictions",
-        "summary": "Chinese artificial intelligence powerhouse DeepSeek is taking matters into its own hands, developing its own custom AI silicon. The strategic move aims to sever dependence on American hardware in the wake of tightening export controls and geopolitical friction.",
+        "headline": "Anthropic Discovers Human-Like 'J-Space' Reasoning Hub",
+        "summary": "Researchers at Anthropic have uncovered a secret chamber inside large language models. Dubbed the 'JSpace,' this emergent region of model weights acts like human conscious thought, handling complex multi-step reasoning. The breakthrough could hold the key to solving the industry's biggest alignment headaches.",
+        "category": "RESEARCH",
+        "source": "4sysops.com",
+        "url": "https://4sysops.com/archives/anthropic-discovers-j-space-reasoning-hub-with-major-implications-for-ai-alignment/",
+        "image": "https://4sysops.com/wp-content/uploads/2026/07/anthropic-discovers-j-space-reasoning-hub-with-major-implications-for-ai-alignment.jpg",
+        "publishedAt": "2026-07-08T09:34:24Z"
+      },
+      {
+        "headline": "Amazon Secretly Plots New 'Moonraker' Alexa AI Upgrade",
+        "summary": "Rumors are swirling out of Seattle that Amazon is cooking up a major artificial intelligence upgrade for its virtual assistant, Alexa. Internal plans reveal the high-stakes project is codenamed 'Moonraker.' The tech titan is desperate to inject new life into its household voice assistant to keep pace with rivals.",
+        "category": "CONSUMER TECH",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/46b703c689ff66a8",
+        "image": "https://biztoc.com/cdn/46b703c689ff66a8_s.webp",
+        "publishedAt": "2026-07-08T10:07:36Z"
+      },
+      {
+        "headline": "Meta Rolls Out Muse Image Generative AI Model",
+        "summary": "Social media giant Meta Platforms has officially unleashed its brand-new image-generation model, Muse Image. Developed by its Superintelligence Labs, the new tool is being injected directly into Meta's popular chat applications. The move marks another aggressive land grab in the consumer generative AI market.",
+        "category": "MODEL RELEASES",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/75bc8b7f1461534f",
+        "image": "https://biztoc.com/cdn/75bc8b7f1461534f_s.webp",
+        "publishedAt": "2026-07-08T09:53:11Z"
+      },
+      {
+        "headline": "Apple Commits Thirty Billion To Broadcom For Chips",
+        "summary": "Apple is doubling down on American manufacturing with a massive thirty-billion-dollar commitment to chipmaker Broadcom. The historic deal marks the iPhone maker's largest domestic manufacturing agreement to date. The cash injection will secure critical silicon supplies as the tech giant gears up for an AI-heavy future.",
         "category": "HARDWARE",
-        "source": "The-independent.com",
-        "url": "https://www.the-independent.com/tech/deepseek-ai-chip-china-chatgpt-nvidia-b3010958.html",
-        "image": "https://static.the-independent.com/2026/07/08/09/2207441353..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-        "publishedAt": "2026-07-08T09:05:40Z"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/08/apple-commits-30-billion-to-broadcom-for-us-chipmaking-push.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108318340-17809408152026-06-08t174532z_2056210661_rc2tplaw4p32_rtrmadp_0_apple-wwdc.jpeg?v=1780940834&w=1920&h=1080",
+        "publishedAt": "2026-07-08T10:00:01Z"
       },
       {
-        "headline": "Cheap Distillation Shortcut Threatens Top AI Profits",
-        "summary": "A major business threat is looming over elite AI developers like OpenAI and Google as rivals turn to 'distillation' techniques. This controversial shortcut allows smaller firms to replicate cutting-edge models at a fraction of the cost, threatening to decimate the industry's profit margins.",
-        "category": "INDUSTRY SHIFT",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/distillation-problem-ai-industry-anthropic-openai-2026-7#article",
-        "image": "https://i.insider.com/6a4d83c9965805a2c542de77?width=1200&format=jpeg",
-        "publishedAt": "2026-07-08T09:00:03Z"
+        "headline": "Former DeepMind Executive Warns AI Arms Race Nears Disaster",
+        "summary": "A former top boss at Google DeepMind is sounding the alarm on the global race for artificial intelligence. Verity Harding warned that the U.S. government's nationalistic stance is steering the world toward a worst-case scenario. She urges leaders to abandon the aggressive arms-race mentality before it is too late.",
+        "category": "OPINION",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
+        "image": "https://media.wired.com/photos/6a4be55744dc79c43267387c/191:100/w_1280,c_limit/DeepMind-Alum-QandA-Verity-Harding-Business.jpg",
+        "publishedAt": "2026-07-08T09:30:00Z"
       },
       {
-        "headline": "Leaked Documents Reveal Costly New Alexa Upgrade",
-        "summary": "Internal files from retail giant Amazon have exposed a highly confidential and expensive initiative dubbed Project Moonraker. The high-stakes venture aims to overhaul the Alexa voice assistant with advanced AI agent capabilities, despite carrying a hefty price tag.",
-        "category": "TECH GIANTS",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/amazon-moonraker-project-alexa-agentic-cost-2026-7#article",
-        "image": "https://i.insider.com/6a4c76ee5dc133dbf310d6f7?width=1200&format=jpeg",
-        "publishedAt": "2026-07-08T09:00:02Z"
-      },
-      {
-        "headline": "Beijing Flags Security Risks in Anthropic's Coding Tool",
-        "summary": "China's industry regulator has sounded the alarm on Claude Code, a popular programming tool developed by American startup Anthropic. Officials warn that certain versions of the software contain critical vulnerabilities that could expose sensitive user data through unauthorized transmissions.",
-        "category": "CYBERSECURITY",
-        "source": "中国日报",
-        "url": "https://www.chinadaily.com.cn/a/202607/08/WS6a4df051a310986e2b464298.html",
-        "image": "http://img2.chinadaily.com.cn/images/202607/08/6a4df051a310986e101928a4.jpeg",
-        "publishedAt": "2026-07-08T08:59:36Z"
-      },
-      {
-        "headline": "Malicious AI Skills Found Hijacking Sensitive Data",
-        "summary": "Security researchers have uncovered thousands of malicious AI agent 'skills' designed to exploit autonomous systems. These rogue capabilities can bypass safety protocols to steal user data, execute dangerous malware, and compromise systems on behalf of unsuspecting users.",
-        "category": "SECURITY THREAT",
-        "source": "Help Net Security",
-        "url": "https://www.helpnetsecurity.com/2026/07/08/eset-ai-threat-trends-report/",
-        "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/03/10074531/target-1500.webp",
-        "publishedAt": "2026-07-08T09:00:08Z"
-      },
-      {
-        "headline": "Investors Shaken as Tech Firms Cut AI Spending",
-        "summary": "The grand promises of the artificial intelligence revolution are facing a cold reality check as major corporations begin scaling back their tech spending. Analysts warn that this sudden pullback could trigger a massive repricing event, leaving over-leveraged tech investors holding the bag.",
-        "category": "FINANCE",
-        "source": "The American Prospect",
-        "url": "http://prospect.org/2026/07/08/great-ai-repricing-isnt-going-well/",
-        "image": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/07/Dayen-AI-costs-070826.jpg?fit=2201%2C1362&ssl=1",
-        "publishedAt": "2026-07-08T09:15:00Z"
+        "headline": "Short-Seller Warns AI Could Wipe Out Knowledge Jobs",
+        "summary": "A prominent Wall Street short-seller is predicting a devastating economic storm on the horizon. Carson Block warns that AI-driven automation could eliminate fifteen percent of all knowledge worker positions within three years. The rapid disruption could trigger a crisis rivaling the worst economic downturns in modern history.",
+        "category": "ECONOMY",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/a6da7743fe763232",
+        "image": "https://biztoc.com/cdn/a6da7743fe763232_s.webp",
+        "publishedAt": "2026-07-08T09:52:09Z"
       }
     ]
   }
