@@ -1,129 +1,129 @@
 {
-  "issueDate": "2026-07-09T10:14:47.100Z",
-  "issueLabel": "July 9, 2026",
+  "issueDate": "2026-07-13T06:28:57.657Z",
+  "issueLabel": "July 13, 2026",
   "volume": 28,
   "automotive": {
     "lead": {
-      "headline": "TESLA BEGINS PUBLIC ROAD TESTS OF CYBERCAB IN TEXAS",
-      "summary": "Tesla has officially commenced public road engineering tests of its two-seat Cybercab in Austin, Texas. This marks the first time the custom-built robotaxi has navigated real-world city traffic. The trial is a crucial early step toward Tesla's envisioned driverless ride-hailing network.",
-      "category": "AUTONOMOUS VEHICLES",
-      "source": "Digitimes",
-      "url": "https://www.digitimes.com/news/a20260706PD247/tesla-austin-production-vehicle-texas.html",
-      "image": "https://img.digitimes.com/newsshow/20260706pd247_files/1_2b.jpg",
-      "publishedAt": "2026-07-08T00:02:51Z"
+      "headline": "WAYMO WINS BIG WITH MASSIVE DRIVERLESS EXPANSION ACROSS AMERICA",
+      "summary": "In a stunning acceleration of driverless technology, Waymo has announced the expansion of its fully autonomous taxi service to four more American cities. The fleet currently handles an astonishing half a million paid rides weekly, representing a tenfold increase over just two years. With eyes on the prize, the company aims to hit a milestone of one million rides per week before the year closes out.",
+      "category": "TRANSIT",
+      "source": "Space Daily",
+      "url": "https://spacedaily.com/m-on-july-8-2026-waymo-announced-fully-driverless-taxis-for-four-more-american-cities-its-fleet-now-giving-about-half-a-million-rides-a-week-and-aiming-for-a-million-a-week-before-the-year-is-out/",
+      "image": "https://spacedaily.com/wp-content/uploads/2026/07/image-2026-07-10T214206.225.png",
+      "publishedAt": "2026-07-11T07:32:35Z"
     },
     "stories": [
       {
-        "headline": "Regulatory Quirk Grants Free Waymo Rides in California",
-        "summary": "A regulatory delay from a California state agency has created an unexpected windfall for autonomous vehicle passengers. Robotaxi rides in Waymo's new Ojai vehicle are expected to remain free for several more months. The company is capitalizing on the bureaucratic pause to continue testing.",
+        "headline": "Tesla Cybercab Begins Employee Rides in Texas",
+        "summary": "Tesla has announced that employee test rides for its wheel-less, pedal-less Cybercab are starting soon at Giga Texas. However, the initial phase of this highly anticipated robotaxi rollout is strictly confined to a local parking lot.",
+        "category": "AUTOS",
+        "source": "Electrek",
+        "url": "http://electrek.co/2026/07/11/tesla-cybercab-giga-texas-parking-lot/",
+        "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/07/Tesla-Cybercab-ride-Giga-Texas.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2026-07-11T20:33:48Z"
+      },
+      {
+        "headline": "NHTSA Demands Waymo and Tesla Fix Robotaxi Safety Kinks",
+        "summary": "Federal regulators are turning up the heat on self-driving pioneers. The NHTSA warned that both Waymo and Tesla must address dangerous issues with their autonomous vehicles before the national fleet expands further.",
         "category": "REGULATION",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/a-california-regulatory-quirk-means-free-waymo-rides/",
-        "image": "https://media.wired.com/photos/6a4d3dfe43cd8f0314cd8061/191:100/w_1280,c_limit/GettyImages-2277937150.jpg",
-        "publishedAt": "2026-07-08T09:00:00Z"
-      },
-      {
-        "headline": "Independence Day Fireworks Leave Waymo Fleet Clogged in SF",
-        "summary": "Independence Day celebrations created unexpected chaos for Waymo's autonomous fleet in San Francisco. Dozens of robotaxis became stranded and required towing after running out of battery during severe traffic congestion. Passengers also captured terrifying footage of vehicles driving directly into active firework displays.",
-        "category": "SAFETY",
-        "source": "Livedoor.com",
-        "url": "https://news.livedoor.com/article/detail/31770213/",
-        "image": "https://image.news.livedoor.com/newsimage/stf/e/5/e5de0_88_d30bc41e0c735c15159c01857ce4636a.jpg",
-        "publishedAt": "2026-07-08T02:20:00Z"
-      },
-      {
-        "headline": "Teens Arrested After Water Bead Joyride in Robotaxi",
-        "summary": "Police in California executed a high-tech takedown of a robotaxi occupied by rowdy teenagers. The joyriding youths were reportedly drinking alcohol and firing Orbeez water beads from the automated vehicle at local residents. The autonomous car eventually pulled over for authorities, ending the disruptive spree.",
-        "category": "CRIME",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/07/07/us-news/joyriding-teens-blast-california-city-with-bbs-before-shocking-high-tech-takedown/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/133672375.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-07-07T23:33:35Z"
-      },
-      {
-        "headline": "China Cost Cuts Push Robotaxi Market Toward Trillion-Dollar Era",
-        "summary": "A new report from Morgan Stanley suggests the global robotaxi market could hit $1 trillion by 2040. Rapidly falling supply chain costs in China are driving this aggressive projection. Industry heavyweights like Waymo, Tesla, and Baidu are expected to lead the global rollout.",
-        "category": "FINANCE",
-        "source": "Digitimes",
-        "url": "https://www.digitimes.com/news/a20260708PD228/robotaxi-market-cost-supply-chain-tesla.html",
-        "image": "https://img.digitimes.com/newsshow/20260708pd228_files/2_b.jpg",
-        "publishedAt": "2026-07-08T04:00:52Z"
-      },
-      {
-        "headline": "Autonomous Driving Firm Momenta Debuts Quietly in Hong Kong",
-        "summary": "Chinese self-driving unicorn Momenta made its stock market debut in Hong Kong, rising a modest three percent on its first day. The company raised over $750 million in its initial public offering despite cautious investor sentiment surrounding autonomous vehicle profitability.",
-        "category": "WALL STREET",
         "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/d14c5f1993693396",
-        "image": "https://biztoc.com/cdn/d14c5f1993693396_s.webp",
-        "publishedAt": "2026-07-08T02:01:11Z"
+        "url": "https://biztoc.com/x/0cef07ca43dcf72b",
+        "image": "https://biztoc.com/cdn/0cef07ca43dcf72b_s.webp",
+        "publishedAt": "2026-07-10T22:53:52Z"
+      },
+      {
+        "headline": "Tesla Faces New Jersey Robotaxi Ban Threat",
+        "summary": "A new legislative bill in New Jersey threatens to ban self-driving vehicles that do not utilize radar and lidar sensors, targeting Tesla's vision-only approach. Despite the domestic hurdle, Tesla continues to gain critical market share in China.",
+        "category": "LEGISLATION",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f2721dfdafd8272e",
+        "image": "https://biztoc.com/cdn/995/og.png",
+        "publishedAt": "2026-07-10T21:05:42Z"
+      },
+      {
+        "headline": "Police Search Waymo Cab Over Underage Riders",
+        "summary": "San Mateo police officers recently searched a Waymo robotaxi after the company flagged two underage passengers inside the vehicle. The incident highlights the active role of Waymo's in-cabin cameras and remote monitoring agents.",
+        "category": "POLICE BEAT",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/05772b6afcdf0338",
+        "image": "https://biztoc.com/cdn/05772b6afcdf0338_s.webp",
+        "publishedAt": "2026-07-11T06:24:52Z"
+      },
+      {
+        "headline": "Robotic Pods Proposed for Automated Robotaxi Pit Stops",
+        "summary": "Aseon Labs is designing robotic pods to clean, charge, and inspect autonomous taxis closer to active passenger zones. The concept promises faster turnaround times but presents cities with complex zoning and placement questions.",
+        "category": "INFRASTRUCTURE",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/tech/robotaxi-pit-stops-could-pop-up-near-you",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Robotaxi-pit_stops-3.jpg",
+        "publishedAt": "2026-07-11T11:32:00Z"
       }
     ]
   },
   "general": {
     "lead": {
-      "headline": "OPENAI SECURES GOVERNMENT GREEN LIGHT FOR GPT-5.6 ROLLOUT",
-      "summary": "The U.S. Department of Commerce has cleared the way for OpenAI to proceed with the release of its advanced GPT-5.6 model series. The highly anticipated launch had been previously postponed after federal officials raised concerns over potential cybersecurity risks. OpenAI expects the rollout to commence as early as this week, bringing its most powerful artificial intelligence to date to the public.",
-      "category": "REGULATION",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f99397b0da0c57dd",
-      "image": "https://biztoc.com/cdn/f99397b0da0c57dd_s.webp",
-      "publishedAt": "2026-07-08T09:36:47Z"
+      "headline": "META RETREATS ON INSTAGRAM AI PHOTO GRAB AFTER FIERCE BACKLASH",
+      "summary": "In a sudden about-face, social media giant Meta has pulled a controversial feature from its new Muse Image tool that allowed public Instagram photos to be scraped for AI generation. The retreat comes a mere three days after the tool was switched on, with executives admitting they 'missed the mark.' Critics and creators alike are celebrating the swift reversal as a win for digital privacy.",
+      "category": "PRIVACY",
+      "source": "Fstoppers",
+      "url": "https://fstoppers.com/artificial-intelligence/missed-mark-meta-retreats-instagram-ai-photo-grab-903480",
+      "image": "https://fstoppers.com/s3/files/styles/medium/s3/lead/2026/07/ist_40827_29791.jpg?itok=0MqeG78I",
+      "publishedAt": "2026-07-12T04:00:06Z"
     },
     "stories": [
       {
-        "headline": "Anthropic Discovers Internal Reasoning Hub Similar to Human Thought",
-        "summary": "Researchers at Anthropic have identified an emergent internal region within large language models dubbed the \"JSpace.\" This specific cluster of model weights appears to handle higher-order functions like multi-step reasoning. Scientists note the mechanism behaves remarkably similarly to human conscious thought, marking a major milestone for AI alignment.",
-        "category": "RESEARCH",
-        "source": "4sysops.com",
-        "url": "https://4sysops.com/archives/anthropic-discovers-j-space-reasoning-hub-with-major-implications-for-ai-alignment/",
-        "image": "https://4sysops.com/wp-content/uploads/2026/07/anthropic-discovers-j-space-reasoning-hub-with-major-implications-for-ai-alignment.jpg",
-        "publishedAt": "2026-07-08T09:34:24Z"
+        "headline": "Beijing Warns of IP Theft in Claude Code",
+        "summary": "Chinese authorities have issued a stark risk advisory warning that Anthropic's Claude Code tool contains hidden monitoring mechanisms. Officials claim the tool automatically transmits sensitive user data, including geographical locations and identities.",
+        "category": "SECURITY",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-12-chinese-authority-warns-ip-theft-anthropics-claude-ai.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/china-anthropic-claude-ai-2631-original.jpg",
+        "publishedAt": "2026-07-12T06:00:00Z"
       },
       {
-        "headline": "Meta Unveils Muse Image Generative AI Model",
-        "summary": "Meta Platforms has officially launched its latest image-generation model, Muse Image. Developed by Meta Superintelligence Labs, the tool represents the tech giant's newest push into high-fidelity generative media. The rollout signals intensifying competition among Silicon Valley's top image-synthesis developers.",
-        "category": "MODEL RELEASES",
-        "source": "Verdict",
-        "url": "https://www.verdict.co.uk/meta-rolls-out-muse-image/",
-        "image": "https://www.techmonitor.ai/wp-content/uploads/sites/29/2026/07/Meta-AI.jpg",
-        "publishedAt": "2026-07-08T10:11:44Z"
+        "headline": "Tech Giants Target Tribal Lands for Data Centers",
+        "summary": "Advocacy group Honor the Earth reports that big tech companies are increasingly eyeing Native American tribal lands for massive data center expansions. At least 37 projects have been mapped, sparking growing resistance from tribal communities.",
+        "category": "LAND USE",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-12-data-center-expansion-targets-native-american-lands.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/data-center-expansion-native-american-lands-tribal-resistance-2652-original.jpg",
+        "publishedAt": "2026-07-12T06:00:00Z"
       },
       {
-        "headline": "Apple Commits Thirty Billion Dollars to Broadcom Chipmaking Deal",
-        "summary": "Apple has deepened its partnership with Broadcom in a massive manufacturing agreement valued at over $30 billion. The deal represents Apple's largest American chipmaking commitment to date. The partnership aims to bolster U.S.-based semiconductor production amid growing demand for advanced hardware.",
-        "category": "HARDWARE",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/08/apple-commits-30-billion-to-broadcom-for-us-chipmaking-push.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108318340-17809408152026-06-08t174532z_2056210661_rc2tplaw4p32_rtrmadp_0_apple-wwdc.jpeg?v=1780940834&w=1920&h=1080",
-        "publishedAt": "2026-07-08T10:00:01Z"
-      },
-      {
-        "headline": "Amazon Develops New Alexa AI Upgrade Codenamed Moonraker",
-        "summary": "Amazon is reportedly developing a major artificial intelligence upgrade for its virtual assistant, Alexa. Internal documents reveal the project is codenamed \"Moonraker\" as the retail giant seeks to revitalize its voice assistant technology. The move comes as tech firms race to integrate advanced conversational models into consumer hardware.",
-        "category": "PRODUCTS",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/46b703c689ff66a8",
-        "image": "https://biztoc.com/cdn/46b703c689ff66a8_s.webp",
-        "publishedAt": "2026-07-08T10:07:36Z"
-      },
-      {
-        "headline": "Finnish Quantum Firm Lands Major Supercomputer Deal",
-        "summary": "Finnish quantum technology firm IQM has secured a major supercomputer contract following its listing on the New York Stock Exchange. The company will deliver an advanced system to the Lumi AI factory located in eastern Finland. The deal marks a significant step forward for European quantum computing infrastructure.",
-        "category": "QUANTUM",
-        "source": "YLE News",
-        "url": "https://yle.fi/a/74-20235411",
-        "image": "https://img.img-cdn.yle.fi/crop_extract,w_1200,h_675,x_0,y_732/crop_fill,w_1200,h_628/f_auto/39-11833546523c54f1f062/1696939784",
-        "publishedAt": "2026-07-08T10:10:20Z"
-      },
-      {
-        "headline": "Experts Warn AI Job Disruption Could Rival Historic Crises",
-        "summary": "Financial analysts warn that rapid artificial intelligence adoption could eliminate fifteen percent of knowledge worker positions within three years. Short-seller Carson Block cautioned that the impending job losses could trigger a disruption rivaling the worst economic crises in modern history. Experts point to historical educational reforms, such as the rise of American high schools a century ago, as potential blueprints for societal adaptation.",
+        "headline": "Electricians and Grid Crews Rule the AI Boom",
+        "summary": "Nvidia chief Jensen Huang warns that the real bottleneck in the AI race is physical infrastructure, not just silicon chips. The prediction has propelled industrial contractor Quanta Services to a record-breaking $48 billion backlog.",
         "category": "LABOR",
         "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/a6da7743fe763232",
-        "image": "https://biztoc.com/cdn/a6da7743fe763232_s.webp",
-        "publishedAt": "2026-07-08T09:52:09Z"
+        "url": "https://biztoc.com/x/87dd61849584e66a",
+        "image": "https://biztoc.com/cdn/87dd61849584e66a_s.webp",
+        "publishedAt": "2026-07-12T05:23:52Z"
+      },
+      {
+        "headline": "Bank of America Warns AI Spending Fuels Inflation",
+        "summary": "A new financial analysis reveals that the massive investment boom in artificial intelligence is adding 0.4 percentage points to U.S. inflation. Analysts name South Korea and the UAE as top contenders rising alongside the domestic surge.",
+        "category": "FINANCE",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/4b5e0a9b014742f6",
+        "image": "https://biztoc.com/cdn/995/og.png",
+        "publishedAt": "2026-07-12T05:22:49Z"
+      },
+      {
+        "headline": "Experts Flee Online Communities as AI Degrades Quality",
+        "summary": "New research shows that the arrival of AI tools is causing a 'knowledge reset' on platforms like Stack Overflow. Expert contributors are abandoning these online hubs as automated content causes quality to decay exponentially.",
+        "category": "RESEARCH",
+        "source": "TechRadar",
+        "url": "https://www.techradar.com/pro/quality-decays-exponentially-following-ai-arrival-research-shows-experts-and-contributors-leaving-online-communities-amidst-silent-knowledge-reset",
+        "image": "https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-2560-80.jpg",
+        "publishedAt": "2026-07-12T05:05:00Z"
+      },
+      {
+        "headline": "Researchers Warn AI Is Eroding Student Math Skills",
+        "summary": "A newly detected phenomenon termed 'cognitive surrender' is raising alarms among educators. Studies show that students relying on AI to solve word problems are suffering from a steep decline in overall mathematical capabilities.",
+        "category": "EDUCATION",
+        "source": "The Hechinger Report",
+        "url": "http://hechingerreport.org/proof-points-ai-eroding-math-skills/",
+        "image": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2026/07/proof-ai-math-1-scaled.jpg?fit=2560%2C1706&ssl=1",
+        "publishedAt": "2026-07-12T05:47:02Z"
       }
     ]
   }
