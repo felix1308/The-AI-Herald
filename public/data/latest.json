@@ -1,12 +1,12 @@
 {
-  "issueDate": "2026-07-13T06:28:57.657Z",
+  "issueDate": "2026-07-13T09:23:08.536Z",
   "issueLabel": "July 13, 2026",
   "volume": 28,
   "automotive": {
     "lead": {
-      "headline": "WAYMO WINS BIG WITH MASSIVE DRIVERLESS EXPANSION ACROSS AMERICA",
-      "summary": "In a stunning acceleration of driverless technology, Waymo has announced the expansion of its fully autonomous taxi service to four more American cities. The fleet currently handles an astonishing half a million paid rides weekly, representing a tenfold increase over just two years. With eyes on the prize, the company aims to hit a milestone of one million rides per week before the year closes out.",
-      "category": "TRANSIT",
+      "headline": "WAYMO EXPANDS DRIVERLESS FLEET TO FOUR MORE US CITIES",
+      "summary": "The driverless revolution is moving at a breakneck pace as Waymo expands its fully autonomous taxi service to four more American cities. The fleet currently handles a staggering half a million paid rides every single week, with eyes set on hitting the million mark before the year's end. Investors are cheering the rapid tenfold growth over just two years, signaling a major shift in public transit.",
+      "category": "AUTONOMOUS TRANSIT",
       "source": "Space Daily",
       "url": "https://spacedaily.com/m-on-july-8-2026-waymo-announced-fully-driverless-taxis-for-four-more-american-cities-its-fleet-now-giving-about-half-a-million-rides-a-week-and-aiming-for-a-million-a-week-before-the-year-is-out/",
       "image": "https://spacedaily.com/wp-content/uploads/2026/07/image-2026-07-10T214206.225.png",
@@ -14,17 +14,17 @@
     },
     "stories": [
       {
-        "headline": "Tesla Cybercab Begins Employee Rides in Texas",
-        "summary": "Tesla has announced that employee test rides for its wheel-less, pedal-less Cybercab are starting soon at Giga Texas. However, the initial phase of this highly anticipated robotaxi rollout is strictly confined to a local parking lot.",
-        "category": "AUTOS",
+        "headline": "Tesla Begins Cybercab Tests For Employees in Texas",
+        "summary": "Elon Musk’s outfit is taking its first tentative steps toward a pedal-less future by launching employee rides in the new 'Cybercab' at Giga Texas. The catch is that these driverless tests are strictly confined to a parking lot for now. Millions of eager onlookers watched the announcement online, waiting to see if the wheel-less wonder can handle the real open road.",
+        "category": "ROBOTAXI",
         "source": "Electrek",
         "url": "http://electrek.co/2026/07/11/tesla-cybercab-giga-texas-parking-lot/",
         "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/07/Tesla-Cybercab-ride-Giga-Texas.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "publishedAt": "2026-07-11T20:33:48Z"
       },
       {
-        "headline": "NHTSA Demands Waymo and Tesla Fix Robotaxi Safety Kinks",
-        "summary": "Federal regulators are turning up the heat on self-driving pioneers. The NHTSA warned that both Waymo and Tesla must address dangerous issues with their autonomous vehicles before the national fleet expands further.",
+        "headline": "NHTSA Orders Robotaxi Operators to Fix Safety Flaws",
+        "summary": "Federal watchdogs are putting the brakes on autonomous vehicle operators, demanding that industry leaders Waymo and Tesla fix dangerous bugs in their software. The National Highway Traffic Safety Administration warns that with more driverless cars hitting the pavement, the kinks must be ironed out immediately. The move comes after several close calls and traffic incidents raised eyebrows in Washington.",
         "category": "REGULATION",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/0cef07ca43dcf72b",
@@ -32,8 +32,8 @@
         "publishedAt": "2026-07-10T22:53:52Z"
       },
       {
-        "headline": "Tesla Faces New Jersey Robotaxi Ban Threat",
-        "summary": "A new legislative bill in New Jersey threatens to ban self-driving vehicles that do not utilize radar and lidar sensors, targeting Tesla's vision-only approach. Despite the domestic hurdle, Tesla continues to gain critical market share in China.",
+        "headline": "New Jersey Proposes Ban on Lidar-Less Self-Driving Cars",
+        "summary": "The Garden State is drawing a line in the sand with a new bill that could outlaw autonomous vehicles operating without radar and lidar sensors. The legislative threat directly targets Tesla's vision-only approach, even as the company gains ground in China. If passed, the law could spark a major tech showdown on New Jersey turnpikes.",
         "category": "LEGISLATION",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/f2721dfdafd8272e",
@@ -41,17 +41,17 @@
         "publishedAt": "2026-07-10T21:05:42Z"
       },
       {
-        "headline": "Police Search Waymo Cab Over Underage Riders",
-        "summary": "San Mateo police officers recently searched a Waymo robotaxi after the company flagged two underage passengers inside the vehicle. The incident highlights the active role of Waymo's in-cabin cameras and remote monitoring agents.",
-        "category": "POLICE BEAT",
+        "headline": "Waymo In-Cabin Cameras Spark Police Investigation",
+        "summary": "Big Brother is riding shotgun in the driverless age, as police in San Mateo recently searched a Waymo robotaxi after the company reported underage passengers on board. The incident highlights the constant surveillance inside the cabs, which are equipped with active microphones and cameras. Remote agents keep a watchful eye on rowdy riders, reminding passengers that they are never truly alone.",
+        "category": "PRIVACY",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/05772b6afcdf0338",
         "image": "https://biztoc.com/cdn/05772b6afcdf0338_s.webp",
         "publishedAt": "2026-07-11T06:24:52Z"
       },
       {
-        "headline": "Robotic Pods Proposed for Automated Robotaxi Pit Stops",
-        "summary": "Aseon Labs is designing robotic pods to clean, charge, and inspect autonomous taxis closer to active passenger zones. The concept promises faster turnaround times but presents cities with complex zoning and placement questions.",
+        "headline": "Robotic Pods Proposed to Clean and Charge Robotaxis",
+        "summary": "Aseon Labs is planning to dot municipal landscapes with automated maintenance pods designed to clean, inspect, and juice up robotaxis on the fly. These robotic pit stops aim to keep driverless fleets running smoothly closer to their passengers. However, city planners are already sweating over where to put these mechanical hubs.",
         "category": "INFRASTRUCTURE",
         "source": "Fox News",
         "url": "https://www.foxnews.com/tech/robotaxi-pit-stops-could-pop-up-near-you",
@@ -62,68 +62,68 @@
   },
   "general": {
     "lead": {
-      "headline": "META RETREATS ON INSTAGRAM AI PHOTO GRAB AFTER FIERCE BACKLASH",
-      "summary": "In a sudden about-face, social media giant Meta has pulled a controversial feature from its new Muse Image tool that allowed public Instagram photos to be scraped for AI generation. The retreat comes a mere three days after the tool was switched on, with executives admitting they 'missed the mark.' Critics and creators alike are celebrating the swift reversal as a win for digital privacy.",
-      "category": "PRIVACY",
-      "source": "Fstoppers",
-      "url": "https://fstoppers.com/artificial-intelligence/missed-mark-meta-retreats-instagram-ai-photo-grab-903480",
-      "image": "https://fstoppers.com/s3/files/styles/medium/s3/lead/2026/07/ist_40827_29791.jpg?itok=0MqeG78I",
-      "publishedAt": "2026-07-12T04:00:06Z"
+      "headline": "APPLE SUES OPENAI IN EXPLOSIVE TRADE SECRETS CLASH",
+      "summary": "The tech world has been rocked by a blockbuster lawsuit as Apple drags OpenAI into court, accusing the startup of orchestrating a brazen raid on its top engineering talent. The legal battle centers on a damning leak where a former Apple engineer sent a cheeky 'LOL' message boasting about accessing proprietary trade secrets. The clash marks a fierce escalation in the high-stakes battle for artificial intelligence supremacy.",
+      "category": "LITIGATION",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/apple-sues-openai-after-ex-engineers-lol-i-found-out-i-can-access-message-becomes-key-evidence-in-explosive-trade-secrets-battle/articleshow/132343092.cms",
+      "image": "https://img.etimg.com/thumb/msid-132343167,width-1200,height-630,imgsize-54248,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-12T09:07:14Z"
     },
     "stories": [
       {
-        "headline": "Beijing Warns of IP Theft in Claude Code",
-        "summary": "Chinese authorities have issued a stark risk advisory warning that Anthropic's Claude Code tool contains hidden monitoring mechanisms. Officials claim the tool automatically transmits sensitive user data, including geographical locations and identities.",
-        "category": "SECURITY",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-12-chinese-authority-warns-ip-theft-anthropics-claude-ai.html",
-        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/china-anthropic-claude-ai-2631-original.jpg",
-        "publishedAt": "2026-07-12T06:00:00Z"
-      },
-      {
-        "headline": "Tech Giants Target Tribal Lands for Data Centers",
-        "summary": "Advocacy group Honor the Earth reports that big tech companies are increasingly eyeing Native American tribal lands for massive data center expansions. At least 37 projects have been mapped, sparking growing resistance from tribal communities.",
-        "category": "LAND USE",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-12-data-center-expansion-targets-native-american-lands.html",
-        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/data-center-expansion-native-american-lands-tribal-resistance-2652-original.jpg",
-        "publishedAt": "2026-07-12T06:00:00Z"
-      },
-      {
-        "headline": "Electricians and Grid Crews Rule the AI Boom",
-        "summary": "Nvidia chief Jensen Huang warns that the real bottleneck in the AI race is physical infrastructure, not just silicon chips. The prediction has propelled industrial contractor Quanta Services to a record-breaking $48 billion backlog.",
-        "category": "LABOR",
+        "headline": "Protesters March on Silicon Valley Giants Demanding AI Halt",
+        "summary": "A roaring crowd of two hundred demonstrators took to the streets of San Francisco, marching on the headquarters of OpenAI, Anthropic, and Google DeepMind. The angry picketers demanded an immediate halt to the corporate AI arms race, voicing deep fears over the technology's rapid rise. The protest brought the anxieties of the machine age directly to the doorsteps of its creators.",
+        "category": "PUBLIC PROTEST",
         "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/87dd61849584e66a",
-        "image": "https://biztoc.com/cdn/87dd61849584e66a_s.webp",
-        "publishedAt": "2026-07-12T05:23:52Z"
+        "url": "https://biztoc.com/x/656337996e49d35b",
+        "image": "https://biztoc.com/cdn/656337996e49d35b_s.webp",
+        "publishedAt": "2026-07-12T08:55:24Z"
       },
       {
-        "headline": "Bank of America Warns AI Spending Fuels Inflation",
-        "summary": "A new financial analysis reveals that the massive investment boom in artificial intelligence is adding 0.4 percentage points to U.S. inflation. Analysts name South Korea and the UAE as top contenders rising alongside the domestic surge.",
+        "headline": "Uncle Sam Moves to Restrict Chinese Open-Weight Models",
+        "summary": "The federal government is tightening the screws on foreign tech, moving to place strict limits on open-weight AI models coming out of China. Officials in Washington are sounding the alarm over distillation risks, fearing these models could bypass domestic security. Analysts warn the crackdown might inadvertently fuel a boom in decentralized, off-grid crypto AI projects.",
+        "category": "GEOPOLITICS",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-bans-chinese-ai-models-decentralized-tokens/",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/12051655/topshot-china-technology-xpeng-ai-1-800x420.jpeg",
+        "publishedAt": "2026-07-12T09:16:57Z"
+      },
+      {
+        "headline": "Zuckerberg Admits Meta AI Bets Yet to Bear Fruit",
+        "summary": "Meta chieftain Mark Zuckerberg threw a bucket of cold water on Wall Street, admitting that the company's massive artificial intelligence gambit has not yet paid off. The sobering confession sent Meta shares tumbling five percent in trading. Despite the lack of immediate returns, the social media giant is still projected to pour up to $145 billion into the AI gold rush this year.",
         "category": "FINANCE",
         "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/4b5e0a9b014742f6",
-        "image": "https://biztoc.com/cdn/995/og.png",
-        "publishedAt": "2026-07-12T05:22:49Z"
+        "url": "https://biztoc.com/x/a2f46e4d3d131b52",
+        "image": "https://biztoc.com/cdn/a2f46e4d3d131b52_s.webp",
+        "publishedAt": "2026-07-12T08:55:27Z"
       },
       {
-        "headline": "Experts Flee Online Communities as AI Degrades Quality",
-        "summary": "New research shows that the arrival of AI tools is causing a 'knowledge reset' on platforms like Stack Overflow. Expert contributors are abandoning these online hubs as automated content causes quality to decay exponentially.",
-        "category": "RESEARCH",
-        "source": "TechRadar",
-        "url": "https://www.techradar.com/pro/quality-decays-exponentially-following-ai-arrival-research-shows-experts-and-contributors-leaving-online-communities-amidst-silent-knowledge-reset",
-        "image": "https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-2560-80.jpg",
-        "publishedAt": "2026-07-12T05:05:00Z"
+        "headline": "Tech Giant TCS to Mobilize Army of AI Engineers",
+        "summary": "India's premier IT outfit, Tata Consultancy Services, is gearing up for a massive recruitment drive to build a force of up to 8,900 AI deployment engineers. The firm is also hunting for strategic acquisitions to protect its business from automated disruptions. TCS is betting big that the AI revolution will generate fresh contracts rather than kill the tech services industry.",
+        "category": "INDUSTRY",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/info-tech/tata-consultancy-services-plans-up-to-8900-ai-deployment-engineers-seeks-ai-acquisitions/article71213514.ece",
+        "image": "https://bl-i.thgim.com/public/incoming/iwrb2m/article71213571.ece/alternates/LANDSCAPE_1200/2026-07-10T035057Z_703898560_RC2NF5A00WAO_RTRMADP_3_TCS-STOCKS.JPG",
+        "publishedAt": "2026-07-12T09:13:29Z"
       },
       {
-        "headline": "Researchers Warn AI Is Eroding Student Math Skills",
-        "summary": "A newly detected phenomenon termed 'cognitive surrender' is raising alarms among educators. Studies show that students relying on AI to solve word problems are suffering from a steep decline in overall mathematical capabilities.",
-        "category": "EDUCATION",
-        "source": "The Hechinger Report",
-        "url": "http://hechingerreport.org/proof-points-ai-eroding-math-skills/",
-        "image": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2026/07/proof-ai-math-1-scaled.jpg?fit=2560%2C1706&ssl=1",
-        "publishedAt": "2026-07-12T05:47:02Z"
+        "headline": "Banking Giant Warns AI Amplifies Global Cybersecurity Risks",
+        "summary": "Wall Street titan Jamie Dimon has issued a stark warning, declaring that artificial intelligence is supercharging the threat of global cyber warfare. Citing powerful systems like Anthropic's tech, the JPMorgan Chase chief cautioned that bad actors could weaponize the tools. The warning underscores an urgent need for financial institutions to shore up their digital defenses.",
+        "category": "CYBERSECURITY",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/dimon-warns-ai-cybersecurity-threats-anthropic/",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/12043441/major-us-bank-boss-issues-grim-economic-warning-1-800x420.jpeg",
+        "publishedAt": "2026-07-12T08:34:44Z"
+      },
+      {
+        "headline": "Machine Bots Now Outnumber Humans on World Wide Web",
+        "summary": "The internet is fast becoming a ghost town for actual humans, as new reports reveal that automated bots now make up the vast majority of web traffic. These digital crawlers and automated agents are dominating the wires, leaving real flesh-and-blood users in the minority. Critics warn we are now living in an AI-dominated web where humans are merely rats in the digital walls.",
+        "category": "INTERNET TRENDS",
+        "source": "Theregister.com",
+        "url": "https://www.theregister.com/columnists/2026/07/12/its-an-ai-web-and-were-just-rats-in-the-walls/5269760",
+        "image": "https://image.theregister.com/5269833.jpg?imageId=5269833&x=0&y=0&cropw=100&croph=71.67&panox=0&panoy=0&panow=100&panoh=71.67&width=1200&height=683",
+        "publishedAt": "2026-07-12T07:34:00Z"
       }
     ]
   }
