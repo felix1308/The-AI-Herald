@@ -1,129 +1,129 @@
 {
-  "issueDate": "2026-07-13T09:23:08.536Z",
-  "issueLabel": "July 13, 2026",
-  "volume": 28,
+  "issueDate": "2026-07-27T09:48:22.664Z",
+  "issueLabel": "July 27, 2026",
+  "volume": 30,
   "automotive": {
     "lead": {
-      "headline": "WAYMO EXPANDS DRIVERLESS FLEET TO FOUR MORE US CITIES",
-      "summary": "The driverless revolution is moving at a breakneck pace as Waymo expands its fully autonomous taxi service to four more American cities. The fleet currently handles a staggering half a million paid rides every single week, with eyes set on hitting the million mark before the year's end. Investors are cheering the rapid tenfold growth over just two years, signaling a major shift in public transit.",
-      "category": "AUTONOMOUS TRANSIT",
-      "source": "Space Daily",
-      "url": "https://spacedaily.com/m-on-july-8-2026-waymo-announced-fully-driverless-taxis-for-four-more-american-cities-its-fleet-now-giving-about-half-a-million-rides-a-week-and-aiming-for-a-million-a-week-before-the-year-is-out/",
-      "image": "https://spacedaily.com/wp-content/uploads/2026/07/image-2026-07-10T214206.225.png",
-      "publishedAt": "2026-07-11T07:32:35Z"
+      "headline": "TESLA DEPLOYS FLORIDA ROBOTAXIS AMID MIXED QUARTERLY EARNINGS REPORT",
+      "summary": "The electric vehicle pioneer has officially expanded its driverless robotaxi service to Orlando and Tampa, hot on the heels of its Miami launch. While the technological roll-out marches forward, the company's financial books tell a more complicated tale of high costs. Investors are keeping a watchful eye as the firm bets its bottom dollar on an autonomous future.",
+      "category": "AUTONOMOUS VEHICLES",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/76f65bde4e15b738",
+      "image": "https://biztoc.com/cdn/76f65bde4e15b738_s.webp",
+      "publishedAt": "2026-07-25T14:19:05Z"
     },
     "stories": [
       {
-        "headline": "Tesla Begins Cybercab Tests For Employees in Texas",
-        "summary": "Elon Musk’s outfit is taking its first tentative steps toward a pedal-less future by launching employee rides in the new 'Cybercab' at Giga Texas. The catch is that these driverless tests are strictly confined to a parking lot for now. Millions of eager onlookers watched the announcement online, waiting to see if the wheel-less wonder can handle the real open road.",
-        "category": "ROBOTAXI",
+        "headline": "WAYMO TO SPLIT WITH UBER IN KEY CITIES",
+        "summary": "The Alphabet-owned autonomous vehicle unit has notified ride-hailing giant Uber of plans to end their exclusive partnership in Austin and Atlanta. Waymo plans to launch its own independent app in those markets by January 2028.",
+        "category": "INDUSTRY SHAKEUP",
+        "source": "The Next Web",
+        "url": "https://thenextweb.com/news/waymo-uber-exclusivity-ends-austin-atlanta-robotaxi/",
+        "image": "https://media.thenextweb.com/2026/07/waymo-uber-exclusivity-ends-austin-atlanta-robotaxi.avif",
+        "publishedAt": "2026-07-25T11:40:55Z"
+      },
+      {
+        "headline": "WAYMO DRIVERLESS TAXIS BEAT HUMAN SAFETY RECORDS",
+        "summary": "A new study by the Insurance Institute for Highway Safety reveals autonomous electric taxis crash 68 percent less than the average human driver. Though caveats exist in the data, the safety margins represent a major milestone for driverless tech.",
+        "category": "SAFETY STUDY",
         "source": "Electrek",
-        "url": "http://electrek.co/2026/07/11/tesla-cybercab-giga-texas-parking-lot/",
-        "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/07/Tesla-Cybercab-ride-Giga-Texas.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "publishedAt": "2026-07-11T20:33:48Z"
+        "url": "http://electrek.co/2026/07/25/waymo-is-2-3-safer-than-a-human-driver-says-iihs-with-some-caveats/",
+        "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/10/Waymo-cities-2025.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2026-07-25T19:27:07Z"
       },
       {
-        "headline": "NHTSA Orders Robotaxi Operators to Fix Safety Flaws",
-        "summary": "Federal watchdogs are putting the brakes on autonomous vehicle operators, demanding that industry leaders Waymo and Tesla fix dangerous bugs in their software. The National Highway Traffic Safety Administration warns that with more driverless cars hitting the pavement, the kinks must be ironed out immediately. The move comes after several close calls and traffic incidents raised eyebrows in Washington.",
-        "category": "REGULATION",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/0cef07ca43dcf72b",
-        "image": "https://biztoc.com/cdn/0cef07ca43dcf72b_s.webp",
-        "publishedAt": "2026-07-10T22:53:52Z"
+        "headline": "MOBILEYE FOUNDER AMNON SHASHUA STEPS DOWN AS CEO",
+        "summary": "The chief executive of driver-assistance systems supplier Mobileye is relinquishing his post after a highly volatile run. Shashua famously guided the firm through a massive fifteen-billion-dollar sale to Intel and back to the public market.",
+        "category": "EXECUTIVE SHIFT",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/companies/mobileye-founder-stepping-down-as-ceo-after-volatile-run-11785045096499.html",
+        "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
+        "publishedAt": "2026-07-26T05:51:36Z"
       },
       {
-        "headline": "New Jersey Proposes Ban on Lidar-Less Self-Driving Cars",
-        "summary": "The Garden State is drawing a line in the sand with a new bill that could outlaw autonomous vehicles operating without radar and lidar sensors. The legislative threat directly targets Tesla's vision-only approach, even as the company gains ground in China. If passed, the law could spark a major tech showdown on New Jersey turnpikes.",
-        "category": "LEGISLATION",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/f2721dfdafd8272e",
-        "image": "https://biztoc.com/cdn/995/og.png",
-        "publishedAt": "2026-07-10T21:05:42Z"
+        "headline": "ELON MUSK NET WORTH PLUNGES SIX HUNDRED BILLION",
+        "summary": "A brutal five-week market slide has erased a staggering fortune from the world's richest man. Sharp declines in both Tesla and SpaceX share prices drove the massive financial evaporation.",
+        "category": "MARKET CRASH",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/tech/2026/07/25/elon-musks-net-worth-plunges-by-650-billion-as-tesla-and-spacex-shares-decline-sharply/",
+        "image": "https://media.breitbart.com/media/2026/07/Elon-Musk-contemplates-the-market-640x335.jpg",
+        "publishedAt": "2026-07-25T16:54:15Z"
       },
       {
-        "headline": "Waymo In-Cabin Cameras Spark Police Investigation",
-        "summary": "Big Brother is riding shotgun in the driverless age, as police in San Mateo recently searched a Waymo robotaxi after the company reported underage passengers on board. The incident highlights the constant surveillance inside the cabs, which are equipped with active microphones and cameras. Remote agents keep a watchful eye on rowdy riders, reminding passengers that they are never truly alone.",
-        "category": "PRIVACY",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/05772b6afcdf0338",
-        "image": "https://biztoc.com/cdn/05772b6afcdf0338_s.webp",
-        "publishedAt": "2026-07-11T06:24:52Z"
-      },
-      {
-        "headline": "Robotic Pods Proposed to Clean and Charge Robotaxis",
-        "summary": "Aseon Labs is planning to dot municipal landscapes with automated maintenance pods designed to clean, inspect, and juice up robotaxis on the fly. These robotic pit stops aim to keep driverless fleets running smoothly closer to their passengers. However, city planners are already sweating over where to put these mechanical hubs.",
-        "category": "INFRASTRUCTURE",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/tech/robotaxi-pit-stops-could-pop-up-near-you",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Robotaxi-pit_stops-3.jpg",
-        "publishedAt": "2026-07-11T11:32:00Z"
+        "headline": "CATHIE WOOD BACKS TESLA AND SPACEX AS TOP PICKS",
+        "summary": "ARK Invest's leading lady has doubled down on her favorite tech plays, deploying over five hundred and eighty million dollars. Wood named the Elon Musk-led giants as her absolute premier choices for artificial intelligence stock.",
+        "category": "INVESTMENT",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/cathie-wood-tesla-spacex-top-ai-stock-picks/",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/25233034/ark-investment-management-llc-chief-executive-officer-cathie-4-800x420.jpeg",
+        "publishedAt": "2026-07-26T03:30:37Z"
       }
     ]
   },
   "general": {
     "lead": {
-      "headline": "APPLE SUES OPENAI IN EXPLOSIVE TRADE SECRETS CLASH",
-      "summary": "The tech world has been rocked by a blockbuster lawsuit as Apple drags OpenAI into court, accusing the startup of orchestrating a brazen raid on its top engineering talent. The legal battle centers on a damning leak where a former Apple engineer sent a cheeky 'LOL' message boasting about accessing proprietary trade secrets. The clash marks a fierce escalation in the high-stakes battle for artificial intelligence supremacy.",
-      "category": "LITIGATION",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/apple-sues-openai-after-ex-engineers-lol-i-found-out-i-can-access-message-becomes-key-evidence-in-explosive-trade-secrets-battle/articleshow/132343092.cms",
-      "image": "https://img.etimg.com/thumb/msid-132343167,width-1200,height-630,imgsize-54248,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-12T09:07:14Z"
+      "headline": "MICROSOFT'S COLOSSAL AI BET: THE HERO'S NORTH STAR OR NOOSE?",
+      "summary": "Tech giant Microsoft is facing intense scrutiny over its aggressive, multi-billion-dollar gamble on artificial intelligence. While CEO Satya Nadella was hailed as a savior after early partnerships with OpenAI, critics now wonder if the massive infrastructure costs will strangle the company's bottom line. The industry is watching closely as the software kingpin fights to maintain its leading edge.",
+      "category": "TECH TITANS",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/be06c44c4d5e4fc3",
+      "image": "https://biztoc.com/cdn/be06c44c4d5e4fc3_s.webp",
+      "publishedAt": "2026-07-26T08:10:55Z"
     },
     "stories": [
       {
-        "headline": "Protesters March on Silicon Valley Giants Demanding AI Halt",
-        "summary": "A roaring crowd of two hundred demonstrators took to the streets of San Francisco, marching on the headquarters of OpenAI, Anthropic, and Google DeepMind. The angry picketers demanded an immediate halt to the corporate AI arms race, voicing deep fears over the technology's rapid rise. The protest brought the anxieties of the machine age directly to the doorsteps of its creators.",
-        "category": "PUBLIC PROTEST",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/656337996e49d35b",
-        "image": "https://biztoc.com/cdn/656337996e49d35b_s.webp",
-        "publishedAt": "2026-07-12T08:55:24Z"
+        "headline": "CLAUDE OPUS FIVE CHALLENGES CHATGPT IN BENCHMARK DUEL",
+        "summary": "Anthropic has unleashed its latest model, Claude Opus 5, boasting impressive scores on frontier benchmarks. The new release aims to squeeze competitors by offering superior performance paired with aggressive cost efficiency.",
+        "category": "MODEL RELEASES",
+        "source": "Geeky Gadgets",
+        "url": "https://www.geeky-gadgets.com/claude-opus-5-release-details/",
+        "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/07/claude-opus-5-logo.jpg",
+        "publishedAt": "2026-07-26T08:00:00Z"
       },
       {
-        "headline": "Uncle Sam Moves to Restrict Chinese Open-Weight Models",
-        "summary": "The federal government is tightening the screws on foreign tech, moving to place strict limits on open-weight AI models coming out of China. Officials in Washington are sounding the alarm over distillation risks, fearing these models could bypass domestic security. Analysts warn the crackdown might inadvertently fuel a boom in decentralized, off-grid crypto AI projects.",
-        "category": "GEOPOLITICS",
+        "headline": "DEEPSEEK PAUSES FUNDRAISING ROUND AFTER VIRAL LEAKS",
+        "summary": "Chinese artificial intelligence startup DeepSeek has frozen its latest funding efforts. The sudden halt follows private, controversial investor remarks by founder Liang Wenfeng that leaked onto social media.",
+        "category": "FINANCIAL DRAMA",
+        "source": "The Next Web",
+        "url": "https://thenextweb.com/news/deepseek-funding-pause-viral-posts-liang-wenfeng/",
+        "image": "https://media.thenextweb.com/2026/07/deepseek-funding-pause-viral-posts-liang-wenfeng.avif",
+        "publishedAt": "2026-07-26T09:40:52Z"
+      },
+      {
+        "headline": "YOUTUBE CRACKS DOWN ON LOW QUALITY AI SLOP",
+        "summary": "The video platform is squeezing the purse strings on channels relying on mass-produced, low-quality artificial intelligence content. New monetization rules aim to protect advertiser trust and champion original human creativity.",
+        "category": "PLATFORM POLICY",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/youtube-tightens-rules-ai-generated-content-monetization-1872928",
+        "image": "https://d.ibtimes.com.au/en/full/1894016/youtube.jpg",
+        "publishedAt": "2026-07-26T09:44:58Z"
+      },
+      {
+        "headline": "AI LOBBYISTS SPEND SIXTY-FIVE MILLION ON MIDTERMS",
+        "summary": "The artificial intelligence industry is pouring unprecedented cash into the upcoming midterm elections. Power players hope to swing legislative influence and shape future regulations before they get penned into law.",
+        "category": "POLITICAL INFLUENCE",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/ai-midterm-elections-spending-super-pacs-greg-brockman-anthropic-2026-7#article",
+        "image": "https://i.insider.com/6a63c3aa54f9875261779a28?width=1200&format=jpeg",
+        "publishedAt": "2026-07-26T09:27:02Z"
+      },
+      {
+        "headline": "GENERATIVE AI PATENTS TRIPLE IN TWO YEARS",
+        "summary": "A fresh report from the World Intellectual Property Organization shows a massive surge in generative artificial intelligence patent filings. Experts warn the intellectual property land grab could stifle smaller, decentralized projects.",
+        "category": "PATENT WAR",
         "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-bans-chinese-ai-models-decentralized-tokens/",
-        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/12051655/topshot-china-technology-xpeng-ai-1-800x420.jpeg",
-        "publishedAt": "2026-07-12T09:16:57Z"
+        "url": "https://cryptobriefing.com/wipo-generative-ai-patents-growth/",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/26051636/world-intellectual-property-organization.gif",
+        "publishedAt": "2026-07-26T09:16:39Z"
       },
       {
-        "headline": "Zuckerberg Admits Meta AI Bets Yet to Bear Fruit",
-        "summary": "Meta chieftain Mark Zuckerberg threw a bucket of cold water on Wall Street, admitting that the company's massive artificial intelligence gambit has not yet paid off. The sobering confession sent Meta shares tumbling five percent in trading. Despite the lack of immediate returns, the social media giant is still projected to pour up to $145 billion into the AI gold rush this year.",
-        "category": "FINANCE",
+        "headline": "AI SLEEP TEST SPOTS ALZHEIMER'S IN EARLY STAGES",
+        "summary": "Researchers have designed a clever artificial intelligence tool that analyzes brain activity during sleep to detect early signs of Alzheimer's. The non-invasive method offers hope for simpler, pre-symptomatic diagnosis.",
+        "category": "MEDICAL RESEARCH",
         "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/a2f46e4d3d131b52",
-        "image": "https://biztoc.com/cdn/a2f46e4d3d131b52_s.webp",
-        "publishedAt": "2026-07-12T08:55:27Z"
-      },
-      {
-        "headline": "Tech Giant TCS to Mobilize Army of AI Engineers",
-        "summary": "India's premier IT outfit, Tata Consultancy Services, is gearing up for a massive recruitment drive to build a force of up to 8,900 AI deployment engineers. The firm is also hunting for strategic acquisitions to protect its business from automated disruptions. TCS is betting big that the AI revolution will generate fresh contracts rather than kill the tech services industry.",
-        "category": "INDUSTRY",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/info-tech/tata-consultancy-services-plans-up-to-8900-ai-deployment-engineers-seeks-ai-acquisitions/article71213514.ece",
-        "image": "https://bl-i.thgim.com/public/incoming/iwrb2m/article71213571.ece/alternates/LANDSCAPE_1200/2026-07-10T035057Z_703898560_RC2NF5A00WAO_RTRMADP_3_TCS-STOCKS.JPG",
-        "publishedAt": "2026-07-12T09:13:29Z"
-      },
-      {
-        "headline": "Banking Giant Warns AI Amplifies Global Cybersecurity Risks",
-        "summary": "Wall Street titan Jamie Dimon has issued a stark warning, declaring that artificial intelligence is supercharging the threat of global cyber warfare. Citing powerful systems like Anthropic's tech, the JPMorgan Chase chief cautioned that bad actors could weaponize the tools. The warning underscores an urgent need for financial institutions to shore up their digital defenses.",
-        "category": "CYBERSECURITY",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/dimon-warns-ai-cybersecurity-threats-anthropic/",
-        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/12043441/major-us-bank-boss-issues-grim-economic-warning-1-800x420.jpeg",
-        "publishedAt": "2026-07-12T08:34:44Z"
-      },
-      {
-        "headline": "Machine Bots Now Outnumber Humans on World Wide Web",
-        "summary": "The internet is fast becoming a ghost town for actual humans, as new reports reveal that automated bots now make up the vast majority of web traffic. These digital crawlers and automated agents are dominating the wires, leaving real flesh-and-blood users in the minority. Critics warn we are now living in an AI-dominated web where humans are merely rats in the digital walls.",
-        "category": "INTERNET TRENDS",
-        "source": "Theregister.com",
-        "url": "https://www.theregister.com/columnists/2026/07/12/its-an-ai-web-and-were-just-rats-in-the-walls/5269760",
-        "image": "https://image.theregister.com/5269833.jpg?imageId=5269833&x=0&y=0&cropw=100&croph=71.67&panox=0&panoy=0&panow=100&panoh=71.67&width=1200&height=683",
-        "publishedAt": "2026-07-12T07:34:00Z"
+        "url": "https://biztoc.com/x/e5318ab3ab871b3e",
+        "image": "https://biztoc.com/cdn/e5318ab3ab871b3e_s.webp",
+        "publishedAt": "2026-07-26T08:40:53Z"
       }
     ]
   }
