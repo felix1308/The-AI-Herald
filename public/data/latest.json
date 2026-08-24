@@ -1,129 +1,129 @@
 {
-  "issueDate": "2026-08-17T06:51:06.310Z",
-  "issueLabel": "August 17, 2026",
-  "volume": 33,
+  "issueDate": "2026-08-24T06:53:51.930Z",
+  "issueLabel": "August 24, 2026",
+  "volume": 34,
   "automotive": {
     "lead": {
-      "headline": "VEGAS COLD SHOULDER: ONLY TEN TESLA ROBOTAXIS APPROVED FOR STRIP",
-      "summary": "Elon Musk’s grand vision for a massive self-driving fleet in Sin City has hit a regulatory brick wall. Authorities in Las Vegas approved a mere ten of the requested 5,000 autonomous cabs. The lackluster decision comes bundled with strict operational limitations, delivering a sharp reality check to the EV giant's immediate autonomy goals.",
-      "category": "ROBOTAXIS",
-      "source": "The-independent.com",
-      "url": "https://www.the-independent.com/tech/tesla-robotaxis-las-vegas-approval-b3033683.html",
-      "image": "https://static.the-independent.com/2026/08/15/20/2026-07-23T093414Z_102669836_RC2OPU8B41U3_RTRMADP_3_TESLA-RESULTS-ROBOTAXI.JPG?trim=109,0,109,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-08-15T20:33:21Z"
+      "headline": "NEVADA OPENS THE GATES TO THOUSANDS OF ROBOTAXIS",
+      "summary": "The Nevada Transportation Authority has greenlit commercial robotaxi operations for three major players: Tesla, Uber, and Waymo. This unanimous approval allows these tech giants to deploy thousands of driverless cabs across Clark County, home to the bustling streets of Las Vegas. The regulatory clearance marks a massive step forward in the race for autonomous dominance in the desert.",
+      "category": "Regulation",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/6dbfdce4a68fc870",
+      "image": "https://biztoc.com/cdn/6dbfdce4a68fc870_s.webp",
+      "publishedAt": "2026-08-21T21:39:00Z"
     },
     "stories": [
       {
-        "headline": "Waymo Expands Westward Targeting One Million Rides",
-        "summary": "Alphabet's self-driving unit is pushing deep into California, securing approval to expand across 18 new counties. The company expects this massive footprint to propel them past the one million paid rides milestone by the end of the year.",
-        "category": "EXPANSION",
-        "source": "Electrek",
-        "url": "http://electrek.co/2026/08/15/weekend-quick-charge-all-about-autonomy-with-waymo-and-gm/",
-        "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/07/waymo_ojai_hero_mp4_hd.original.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "publishedAt": "2026-08-15T21:51:52Z"
+        "headline": "Uber Rolls Out Baidu Robotaxis in Dubai",
+        "summary": "Uber Technologies and Baidu have joined forces to launch fully driverless Apollo Go robotaxis on Uber's platform in Dubai. This marks the first international deployment of the Chinese tech giant's autonomous vehicles on the ride-hailing network.",
+        "category": "Global Expansion",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/technology/ai/articles/uber-brings-baidu-driverless-robotaxis-220035236.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/897E8B19E7E5CA990AA3E355FC15B83F1F07CD6A4BF849829A38396081B88D51/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fdf33881a5d5f0d7dcc46996bf3a1ce8a.jpg",
+        "publishedAt": "2026-08-21T22:00:35Z"
       },
       {
-        "headline": "DAF Trucks Partner with Einride for Level Four Autonomy",
-        "summary": "Heavy truck manufacturer DAF is teaming up with autonomous logistics firm Einride to deploy self-driving electric freight assets. The partnership aims to accelerate the adoption of driverless technology across premium shipping platforms.",
-        "category": "FREIGHT",
-        "source": "Electrek",
-        "url": "http://electrek.co/2026/08/15/paccar-brand-daf-to-add-level-4-einride-autonomy-to-its-electric-trucks/",
-        "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/DAF_EINRIDE_MAIN.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "publishedAt": "2026-08-15T12:40:29Z"
+        "headline": "Musk Confirms Colossal $16.8B Chip Plant",
+        "summary": "Tesla and SpaceX are collaborating to construct a massive semiconductor facility dubbed \"Terafab\" in Texas. The $16.8 billion investment aims to address future chip demand and is expected to create 3,000 initial jobs.",
+        "category": "Hardware",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/tesla-spacex-terafab-semiconductor-facility-texas-1874380",
+        "image": "https://d.ibtimes.com.au/en/full/1841013/tesla-chief-twitter-owner-elon-musk.jpg",
+        "publishedAt": "2026-08-22T11:55:20Z"
       },
       {
-        "headline": "Hands-Free Showdown: Tesla FSD Battles Rivian Autonomy Plus",
-        "summary": "A head-to-head comparison reveals Rivian is making strides in catching up to Tesla’s famous driver-assist capabilities. However, the challenger is implementing strict safety guardrails that Elon Musk's pioneer system currently lacks.",
-        "category": "TEST DRIVE",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108344678-17858640942022-04-18t114421z_88518296_rc27lt9gl46l_rtrmadp_0_autos-rivian-factory.jpeg?v=1786742012&w=1920&h=1080",
-        "publishedAt": "2026-08-15T12:00:01Z"
+        "headline": "Waymo Engineers Custom Silicon for Robotaxis",
+        "summary": "Alphabet's autonomous vehicle division, Waymo, has developed its own custom ASIC chips to boost robotaxi performance. The specialized compute hardware is designed under the hood to handle complex driving algorithms.",
+        "category": "Hardware",
+        "source": "Livedoor.com",
+        "url": "https://news.livedoor.com/article/detail/32133244/",
+        "image": "https://image.news.livedoor.com/newsimage/stf/1/7/173a6_88_902aa71f400f6a41043db9cbf9d954fa.jpg",
+        "publishedAt": "2026-08-22T12:00:00Z"
       },
       {
-        "headline": "How Long Will Your Software-Defined Car Actually Last?",
-        "summary": "Modern vehicles are increasingly built around complex software platforms, but industry analysts warn of a looming obsolescence crisis. Unlike consumer electronics, automakers have no clear strategy for how long these digital-first machines will remain supported.",
-        "category": "INDUSTRY ANALYSIS",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/15/software-defined-vehicles-rivian-tesla.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108208854-1759850437536-gettyimages-2233586805-dellatorre-notitle250906_npzUa.jpeg?v=1786744619&w=1920&h=1080",
-        "publishedAt": "2026-08-15T12:00:01Z"
+        "headline": "JPMorgan Touts Tesla Cybercab Scale Up",
+        "summary": "Investment bank JPMorgan reports that Tesla is prioritizing its Cybercab operations over further scaling the Model Y fleet. Analysts also noted that the upcoming FSD V15 represents a step-change in autonomous performance.",
+        "category": "Industry Analysis",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-says-tesla-confident-scaling-213147223.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/60CFDC48BDA5CC3E71EEEA9277153921C182C8A97D7179F6C4A5FC5BEDC900D8/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Ff1587ad4cb4edf491723db19f58e94ed.jpg",
+        "publishedAt": "2026-08-22T21:31:47Z"
       },
       {
-        "headline": "Tesla Short Sellers Rake in Nine Billion Dollars",
-        "summary": "Despite Elon Musk's bold predictions that short sellers would be \"obliterated\" by autonomy and Optimus, traders betting against the firm have found massive success. Paper gains for Tesla shorts have topped $9 billion so far in 2026.",
-        "category": "WALL STREET",
-        "source": "Barchart.com",
-        "url": "https://www.barchart.com/story/news/3871544/elon-musk-said-tesla-short-sellers-would-be-obliterated-even-bill-gates-yet-theyve-made-9-billion-this-year-shorting-the-stock",
-        "image": "https://s.yimg.com/lo/mysterio/api/9B0407CBEF633A76B466EFFFD5C00165DDB0005A3839C1C164D9AD11B9DEFC72/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fedd29daae0e8a51bd699481d40d3f403.jpg",
-        "publishedAt": "2026-08-15T19:30:02Z"
+        "headline": "Uncle Sam Probes Chinese Lidar Risks",
+        "summary": "A U.S. government lab is reportedly investigating security risks associated with Chinese-made Lidar sensors. The probe comes as American automakers consider using the cheaper Chinese technology in their vehicles.",
+        "category": "Security",
+        "source": "Gizmodo.com",
+        "url": "https://gizmodo.com/u-s-government-lab-reportedly-probing-chinese-lidar-security-risks-on-behalf-of-private-industry-2000801788",
+        "image": "https://gizmodo.com/app/uploads/2026/07/waymo-robotaxi-1200x675.jpg",
+        "publishedAt": "2026-08-21T21:23:30Z"
       }
     ]
   },
   "general": {
     "lead": {
-      "headline": "NVIDIA IN TALKS FOR THREE BILLION DOLLAR ENERGY DEAL WITH OPENAI",
-      "summary": "Chip giant Nvidia is reportedly in discussions to invest a staggering $3 billion into SB Energy. The massive capital injection is directly tied to powering a landmark data center deal for ChatGPT creator OpenAI. This move highlights the desperate scramble for energy infrastructure to feed the insatiable power demands of modern artificial intelligence.",
-      "category": "BIG TECH DEALS",
+      "headline": "ANTHROPIC PREPARES FOR COLOSSAL TWO TRILLION DOLLAR OCTOBER IPO",
+      "summary": "San Francisco artificial intelligence start-up Anthropic is reportedly preparing to go public this October at a staggering valuation of $2 trillion or more. Co-founded by CEO Dario Amodei, the Claude creator has rapidly transformed from an industry underdog into a financial titan. If realized, this historic public offering would mark the largest IPO the world has ever seen.",
+      "category": "Business",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/71de16960df9e3c0",
-      "image": "https://biztoc.com/cdn/71de16960df9e3c0_s.webp",
-      "publishedAt": "2026-08-16T06:15:09Z"
+      "url": "https://biztoc.com/x/2dc60903d8934b19",
+      "image": "https://biztoc.com/cdn/2dc60903d8934b19_s.webp",
+      "publishedAt": "2026-08-23T06:50:54Z"
     },
     "stories": [
       {
-        "headline": "Anthropic Chief Dismisses Fears of Regulatory Power Grab",
-        "summary": "CEO Dario Amodei has pushed back against claims that impending AI regulation will concentrate power among tech giants. He argued that fair, robust institutional processes can effectively constrain corporate dominance while keeping the ecosystem open.",
-        "category": "REGULATION",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ceo-dario-amodei-rejects-claim-ai-regulation-would-concentrate-power/articleshow/133271001.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-66200,resizemode-75,msid-133271001/tech/artificial-intelligence/anthropic-ceo-dario-amodei-rejects-claim-ai-regulation-would-concentrate-power.jpg",
-        "publishedAt": "2026-08-16T06:19:57Z"
-      },
-      {
-        "headline": "AI Tech Erodes Entry-Level Careers for UK Graduates",
-        "summary": "Young workers in the United Kingdom are facing a brutal job market as firms automate routine tasks. Traditional entry-level roles are disappearing, forcing graduates to rely on unpaid internships and expensive career coaching to get a foot in the door.",
-        "category": "LABOR MARKET",
+        "headline": "Chinese Humanoid Robots Smash Athletic Records",
+        "summary": "At the World Humanoid Robot Games in Beijing, Chinese robots shattered human records, including Usain Bolt's 100-meter sprint. Over 2,000 bipedal machines gathered to compete in the Olympics-style event.",
+        "category": "Robotics",
         "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/why-landing-first-job-is-getting-tougher-and-more-expensive-in-uk-126081600162_1.html",
-        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/16/thumb/featurecrop/1200X628/1786859380-8835.jpg",
-        "publishedAt": "2026-08-16T05:50:41Z"
+        "url": "https://www.business-standard.com/world-news/chinese-humanoid-robots-smash-human-records-at-beijing-robot-games-126082300103_1.html",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/23/thumb/featurecrop/1200X628/1787461934-8664.JPG",
+        "publishedAt": "2026-08-23T05:13:12Z"
       },
       {
-        "headline": "The Real Danger: AI Doing Exactly What It Is Told",
-        "summary": "Industry analysts warn that the greatest threat from artificial intelligence is not rogue machines, but hyper-efficient obedience. If humans supply flawed objectives, AI systems will pursue them with a relentless and potentially destructive efficiency.",
-        "category": "AI SAFETY",
-        "source": "TheJournal.ie",
-        "url": "https://www.thejournal.ie/readme/artificial-intelligence-4-7130489-Aug2026/",
-        "image": "https://img2.thejournal.ie/article/7130489/river/?height=400&version=7130504",
-        "publishedAt": "2026-08-16T06:30:41Z"
+        "headline": "Musk's xAI Data Center Sparks Environmental Outrage",
+        "summary": "Elon Musk's xAI is facing legal challenges over unpermitted gas turbines at its Memphis facility. Environmental groups allege the turbines violate air quality regulations and pollute local neighborhoods.",
+        "category": "Environment",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/xai-legal-backlash-unpermitted-gas-turbines-memphis-1874408",
+        "image": "https://d.ibtimes.com.au/en/full/1844846/elon-musk-making-twitter-more-open-hateful-harmful-dishonest-tweets-could-ramping-financial.jpg",
+        "publishedAt": "2026-08-23T06:06:50Z"
       },
       {
-        "headline": "AI Targets Costly Drudgery in the Insurance Sector",
-        "summary": "A new report reveals that artificial intelligence is rapidly automating routine tasks across underwriting, fraud detection, and claims processing. Rather than replacing human professionals, the technology aims to slash overhead by taking over repetitive administrative work.",
-        "category": "BUSINESS",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-could-cut-cost-of-running-insurance-by-eliminating-repetitive-work-report/articleshow/133271231.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-70916,resizemode-75,msid-133271231/tech/artificial-intelligence/ai-could-cut-cost-of-running-insurance-by-eliminating-repetitive-work-report.jpg",
-        "publishedAt": "2026-08-16T06:42:42Z"
+        "headline": "Senator Fetterman Warns Against AI Overregulation",
+        "summary": "Senator John Fetterman aligned with President Donald Trump's aggressive AI push, rejecting \"doomsday\" warnings. Fetterman cautioned that American overreaction in regulation would only hand the advantage to China.",
+        "category": "Politics",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/fetterman-aligns-trump-ai-push-warns-china-benefits-us-overreaction",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/john-fetterman-june-2-2026.jpg",
+        "publishedAt": "2026-08-23T06:52:01Z"
       },
       {
-        "headline": "Financial Advice From Top Chatbots Reveals Major Blind Spots",
-        "summary": "Testing popular models like ChatGPT, Claude, and Perplexity for financial planning yielded practical but incomplete results. While useful for brainstorming and basic fact-finding, researchers concluded the bots cannot replace human financial advisors.",
-        "category": "CONSUMER TECH",
+        "headline": "AI Agents Guzzling 600 Times More Power",
+        "summary": "A new report reveals that autonomous AI agents consume about 600 times more energy than simple LLM prompts. The massive power surge raises fresh concerns about the environmental footprint of advanced AI.",
+        "category": "Energy",
+        "source": "Theclimatebrink.com",
+        "url": "https://www.theclimatebrink.com/p/the-real-energy-use-of-agentic-ai",
+        "image": "https://substackcdn.com/image/fetch/$s_!k8Dd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd17ac0f-06ad-4578-aad0-e61ec4b7762f_2169x1476.png",
+        "publishedAt": "2026-08-23T05:47:01Z"
+      },
+      {
+        "headline": "Austrian Mountain Town Strikes Gold in AI Boom",
+        "summary": "The small Austrian town of Leoben has found a crucial niche in the global AI race thanks to electronics manufacturer AT&S. The firm produces specialized IC substrates that connect advanced AI chips to power supplies.",
+        "category": "Industry",
+        "source": "Digital Journal",
+        "url": "https://www.digitaljournal.com/article/austrian-mountain-town-finds-niche-in-ai-boom/",
+        "image": "https://www.digitaljournal.com/wp-content/uploads/2026/08/9c5d385a57794d94b6de3df7da0fccdf1c40a6ae.jpg",
+        "publishedAt": "2026-08-23T05:39:39Z"
+      },
+      {
+        "headline": "Automated Air Traffic Control Raises Safety Concerns",
+        "summary": "While automation aims to ease the burden on air traffic controllers, experts warn it could increase workloads and lead to critical errors. Regulators are struggling to keep pace with the swift integration of these systems.",
+        "category": "Regulation",
         "source": "The Conversation Africa",
-        "url": "https://theconversation.com/we-asked-chatgpt-claude-and-perplexity-for-financial-advice-what-we-got-was-practical-but-with-big-blind-spots-288948",
-        "image": "https://images.theconversation.com/files/752207/original/file-20260805-50-yy70bx.jpg?ixlib=rb-4.1.1&rect=0%2C390%2C5999%2C2999&q=45&auto=format&w=1356&h=668&fit=crop",
-        "publishedAt": "2026-08-16T06:19:03Z"
-      },
-      {
-        "headline": "The Silent Power Player Behind Anthropic's Top Executive",
-        "summary": "Cami Clark, wife of Anthropic CEO Dario Amodei, is emerging as a fascinating figure within Silicon Valley's elite circles. Despite her proximity to the frontier of AI leadership, her unconventional career path remains largely unknown to the public.",
-        "category": "PEOPLE",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/cami-clark-anthropic-ceo-dario-amodeis-wife-is-a-silicon-valley-power-player-but-claude-barely-knows-her/articleshow/133270618.cms",
-        "image": "https://img.etimg.com/thumb/msid-133271079,width-1200,height-630,imgsize-93764,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-08-16T06:35:22Z"
+        "url": "https://theconversation.com/air-traffic-control-is-becoming-more-automated-is-regulation-keeping-up-288444",
+        "image": "https://images.theconversation.com/files/752317/original/file-20260805-50-jaawtg.jpg?ixlib=rb-4.1.1&rect=0%2C100%2C1200%2C600&q=45&auto=format&w=1356&h=668&fit=crop",
+        "publishedAt": "2026-08-23T06:05:43Z"
       }
     ]
   }
