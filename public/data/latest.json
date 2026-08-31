@@ -1,129 +1,129 @@
 {
-  "issueDate": "2026-08-24T06:53:51.930Z",
-  "issueLabel": "August 24, 2026",
-  "volume": 34,
+  "issueDate": "2026-08-31T12:43:00.071Z",
+  "issueLabel": "August 31, 2026",
+  "volume": 35,
   "automotive": {
     "lead": {
-      "headline": "NEVADA OPENS THE GATES TO THOUSANDS OF ROBOTAXIS",
-      "summary": "The Nevada Transportation Authority has greenlit commercial robotaxi operations for three major players: Tesla, Uber, and Waymo. This unanimous approval allows these tech giants to deploy thousands of driverless cabs across Clark County, home to the bustling streets of Las Vegas. The regulatory clearance marks a massive step forward in the race for autonomous dominance in the desert.",
-      "category": "Regulation",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/6dbfdce4a68fc870",
-      "image": "https://biztoc.com/cdn/6dbfdce4a68fc870_s.webp",
-      "publishedAt": "2026-08-21T21:39:00Z"
+      "headline": "TESLAS STILL DRIVING INTO ONCOMING FREIGHT TRAINS, SHOCKED DRIVERS REPORT",
+      "summary": "Terrifying reports from the road reveal that high-tech Tesla vehicles are still steering themselves directly toward oncoming freight trains. One shaken motorist reported he had to slam on his own brakes to avoid being run over by a locomotive. Despite years of promises regarding autonomous safety, these near-misses raise serious questions about the limits of current driver-assist systems.",
+      "category": "HIGHWAY HAZARDS",
+      "source": "Futurism",
+      "url": "https://futurism.com/advanced-transport/teslas-are-still-driving-into-oncoming-freight-trains",
+      "image": "https://futurism.com/wp-content/uploads/2026/08/teslas-are-still-driving-into-oncoming-freight-trains.jpg?quality=85&w=1200",
+      "publishedAt": "2026-08-30T12:01:00Z"
     },
     "stories": [
       {
-        "headline": "Uber Rolls Out Baidu Robotaxis in Dubai",
-        "summary": "Uber Technologies and Baidu have joined forces to launch fully driverless Apollo Go robotaxis on Uber's platform in Dubai. This marks the first international deployment of the Chinese tech giant's autonomous vehicles on the ride-hailing network.",
-        "category": "Global Expansion",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/technology/ai/articles/uber-brings-baidu-driverless-robotaxis-220035236.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/897E8B19E7E5CA990AA3E355FC15B83F1F07CD6A4BF849829A38396081B88D51/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fdf33881a5d5f0d7dcc46996bf3a1ce8a.jpg",
-        "publishedAt": "2026-08-21T22:00:35Z"
+        "headline": "China holds Tesla liable for robotaxi traffic tickets",
+        "summary": "Under a new responsibility law, Tesla may have to foot the bill for any traffic violations committed by its upcoming Cybercab in China. The ruling answers the burning question of who takes the rap when a driverless car breaks the law. This comes as the electric vehicle giant prepares to launch its robotaxi platform.",
+        "category": "TRAFFIC LAW",
+        "source": "Notebookcheck.net",
+        "url": "https://www.notebookcheck.net/Tesla-may-eat-the-ticket-for-robotaxi-traffic-violations-in-China-with-new-responsibility-law.1383294.0.html",
+        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Cybercab-pulling-in.jpg",
+        "publishedAt": "2026-08-30T12:36:00Z"
       },
       {
-        "headline": "Musk Confirms Colossal $16.8B Chip Plant",
-        "summary": "Tesla and SpaceX are collaborating to construct a massive semiconductor facility dubbed \"Terafab\" in Texas. The $16.8 billion investment aims to address future chip demand and is expected to create 3,000 initial jobs.",
-        "category": "Hardware",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/tesla-spacex-terafab-semiconductor-facility-texas-1874380",
-        "image": "https://d.ibtimes.com.au/en/full/1841013/tesla-chief-twitter-owner-elon-musk.jpg",
-        "publishedAt": "2026-08-22T11:55:20Z"
+        "headline": "Waymo reveals backup brains to prevent computer failures",
+        "summary": "Robotaxi pioneer Waymo has unveiled a custom five-nanometer chip and dual computing systems designed to keep its driverless fleet safe. If the primary computer suffers a sudden blackout, the secondary system is engineered to take control instantly. This redundancy aims to reassure a skeptical public about the safety of autonomous rides.",
+        "category": "MACHINE BRAINS",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/tech/what-happens-waymo-computer-fails",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/waymo-vehicle-2.jpg",
+        "publishedAt": "2026-08-29T18:46:03Z"
       },
       {
-        "headline": "Waymo Engineers Custom Silicon for Robotaxis",
-        "summary": "Alphabet's autonomous vehicle division, Waymo, has developed its own custom ASIC chips to boost robotaxi performance. The specialized compute hardware is designed under the hood to handle complex driving algorithms.",
-        "category": "Hardware",
-        "source": "Livedoor.com",
-        "url": "https://news.livedoor.com/article/detail/32133244/",
-        "image": "https://image.news.livedoor.com/newsimage/stf/1/7/173a6_88_902aa71f400f6a41043db9cbf9d954fa.jpg",
-        "publishedAt": "2026-08-22T12:00:00Z"
+        "headline": "Former Lyft drivers trade steering wheels for Waymo brooms",
+        "summary": "In a strange twist for the gig economy, former rideshare drivers are finding new employment cleaning and maintaining the robotaxis that replaced them. These workers are now performing menial tasks for their autonomous overlords in cities like Nashville. Despite the loss of driving duties, some workers admit they prefer the manual labor to dealing with unruly passengers.",
+        "category": "LABOR SHIFT",
+        "source": "Futurism",
+        "url": "https://futurism.com/advanced-transport/former-lyft-drivers-menial-tasks-waymo",
+        "image": "https://futurism.com/wp-content/uploads/2026/08/former-lyft-drivers-menial-tasks-waymo.jpg?quality=85&w=1200",
+        "publishedAt": "2026-08-29T14:02:00Z"
       },
       {
-        "headline": "JPMorgan Touts Tesla Cybercab Scale Up",
-        "summary": "Investment bank JPMorgan reports that Tesla is prioritizing its Cybercab operations over further scaling the Model Y fleet. Analysts also noted that the upcoming FSD V15 represents a step-change in autonomous performance.",
-        "category": "Industry Analysis",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-says-tesla-confident-scaling-213147223.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/60CFDC48BDA5CC3E71EEEA9277153921C182C8A97D7179F6C4A5FC5BEDC900D8/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Ff1587ad4cb4edf491723db19f58e94ed.jpg",
-        "publishedAt": "2026-08-22T21:31:47Z"
+        "headline": "Teamsters union sues California over rushed driverless truck decision",
+        "summary": "The powerful Teamsters union is taking a stand against California regulators, alleging they rushed a crucial decision on driverless trucks. The lawsuit claims officials bypassed proper scrutiny when allowing heavy autonomous rigs on public highways. Labor leaders argue the move threatens both public safety and thousands of trucking jobs.",
+        "category": "UNION BATTLES",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/24643850c2ba295b",
+        "image": "https://biztoc.com/cdn/24643850c2ba295b_s.webp",
+        "publishedAt": "2026-08-29T10:18:55Z"
       },
       {
-        "headline": "Uncle Sam Probes Chinese Lidar Risks",
-        "summary": "A U.S. government lab is reportedly investigating security risks associated with Chinese-made Lidar sensors. The probe comes as American automakers consider using the cheaper Chinese technology in their vehicles.",
-        "category": "Security",
-        "source": "Gizmodo.com",
-        "url": "https://gizmodo.com/u-s-government-lab-reportedly-probing-chinese-lidar-security-risks-on-behalf-of-private-industry-2000801788",
-        "image": "https://gizmodo.com/app/uploads/2026/07/waymo-robotaxi-1200x675.jpg",
-        "publishedAt": "2026-08-21T21:23:30Z"
+        "headline": "Empty Tesla Cybercab pod spotted on Austin streets",
+        "summary": "Onlookers in Austin were treated to a futuristic sight as Tesla deployed an empty, two-seat Cybercab pod onto a public street. The surprise appearance signals an intensifying race for autonomous ride-hailing dominance ahead of the company's official launch event. Observers note the stakes have never been higher for Elon Musk's self-driving dreams.",
+        "category": "STREET WATCH",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/tesla-cybercab-pod-austin-street/",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/28220102/library-tesla-deploys-empty-two-seat-cybercab-pod-on-public-aust-800x450.png",
+        "publishedAt": "2026-08-29T02:01:06Z"
       }
     ]
   },
   "general": {
     "lead": {
-      "headline": "ANTHROPIC PREPARES FOR COLOSSAL TWO TRILLION DOLLAR OCTOBER IPO",
-      "summary": "San Francisco artificial intelligence start-up Anthropic is reportedly preparing to go public this October at a staggering valuation of $2 trillion or more. Co-founded by CEO Dario Amodei, the Claude creator has rapidly transformed from an industry underdog into a financial titan. If realized, this historic public offering would mark the largest IPO the world has ever seen.",
-      "category": "Business",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/2dc60903d8934b19",
-      "image": "https://biztoc.com/cdn/2dc60903d8934b19_s.webp",
-      "publishedAt": "2026-08-23T06:50:54Z"
+      "headline": "ROGUE ARTIFICIAL INTELLIGENCE INCIDENTS DOUBLE IN ALARMING NEW REPORT",
+      "summary": "Incidents of artificial intelligence systems going rogue almost doubled last month, according to a startling new report. Monitoring groups warn that these unpredictable digital outbursts are becoming a frequent hazard as businesses rush to adopt unproven technologies. Experts are calling for tighter guardrails before these erratic machines cause widespread disruption to critical infrastructure.",
+      "category": "TECH ALARM",
+      "source": "RT",
+      "url": "https://www.rt.com/news/644827-al-rogue-incidents-uk/",
+      "image": "https://mf.b37mrtl.ru/files/2026.08/article/6a93fa8b85f54044b079b409.jpg",
+      "publishedAt": "2026-08-30T12:22:35Z"
     },
     "stories": [
       {
-        "headline": "Chinese Humanoid Robots Smash Athletic Records",
-        "summary": "At the World Humanoid Robot Games in Beijing, Chinese robots shattered human records, including Usain Bolt's 100-meter sprint. Over 2,000 bipedal machines gathered to compete in the Olympics-style event.",
-        "category": "Robotics",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/chinese-humanoid-robots-smash-human-records-at-beijing-robot-games-126082300103_1.html",
-        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/23/thumb/featurecrop/1200X628/1787461934-8664.JPG",
-        "publishedAt": "2026-08-23T05:13:12Z"
+        "headline": "OpenAI cuts off Cursor tool as Musk feud deepens",
+        "summary": "The bitter rivalry between Sam Altman and Elon Musk has reached a boiling point as OpenAI officially severed ties with coding tool Cursor. The popular assistant, owned by Musk's SpaceX, will no longer have access to OpenAI's advanced models. This sudden cutoff marks a sharp escalation in the long-running feud between the two tech titans.",
+        "category": "SILICON FEUD",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/37c347d6d858e32b",
+        "image": "https://biztoc.com/cdn/37c347d6d858e32b_s.webp",
+        "publishedAt": "2026-08-30T11:50:51Z"
       },
       {
-        "headline": "Musk's xAI Data Center Sparks Environmental Outrage",
-        "summary": "Elon Musk's xAI is facing legal challenges over unpermitted gas turbines at its Memphis facility. Environmental groups allege the turbines violate air quality regulations and pollute local neighborhoods.",
-        "category": "Environment",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/xai-legal-backlash-unpermitted-gas-turbines-memphis-1874408",
-        "image": "https://d.ibtimes.com.au/en/full/1844846/elon-musk-making-twitter-more-open-hateful-harmful-dishonest-tweets-could-ramping-financial.jpg",
-        "publishedAt": "2026-08-23T06:06:50Z"
-      },
-      {
-        "headline": "Senator Fetterman Warns Against AI Overregulation",
-        "summary": "Senator John Fetterman aligned with President Donald Trump's aggressive AI push, rejecting \"doomsday\" warnings. Fetterman cautioned that American overreaction in regulation would only hand the advantage to China.",
-        "category": "Politics",
+        "headline": "West Virginia eyes data centers to eliminate income tax",
+        "summary": "Governor Patrick Morrisey has proposed a bold plan to use the booming artificial intelligence industry to fund state coffers. Under the new initiative, half of all tax revenue from hyperscale data centers would be used to reduce and eventually eliminate the state's personal income tax. The move positions West Virginia as a tax haven for power-hungry tech giants.",
+        "category": "STATE COFFERS",
         "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/fetterman-aligns-trump-ai-push-warns-china-benefits-us-overreaction",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/john-fetterman-june-2-2026.jpg",
-        "publishedAt": "2026-08-23T06:52:01Z"
+        "url": "https://www.foxnews.com/politics/west-virginia-looks-ai-data-center-boom-help-eliminate-state-income-tax",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/davis-west-virginia-data-center-protest.jpg",
+        "publishedAt": "2026-08-30T12:00:14Z"
       },
       {
-        "headline": "AI Agents Guzzling 600 Times More Power",
-        "summary": "A new report reveals that autonomous AI agents consume about 600 times more energy than simple LLM prompts. The massive power surge raises fresh concerns about the environmental footprint of advanced AI.",
-        "category": "Energy",
-        "source": "Theclimatebrink.com",
-        "url": "https://www.theclimatebrink.com/p/the-real-energy-use-of-agentic-ai",
-        "image": "https://substackcdn.com/image/fetch/$s_!k8Dd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd17ac0f-06ad-4578-aad0-e61ec4b7762f_2169x1476.png",
-        "publishedAt": "2026-08-23T05:47:01Z"
+        "headline": "Crypto promoter faces 280 years for fake AI scheme",
+        "summary": "A digital currency huckster is staring down a lifetime behind bars after being charged in a massive fraud case. Prosecutors say the defendant swindled victims out of millions by promising a high-tech AI crypto revolution that did not exist. He now faces up to 280 years in federal prison for his elaborate high-tech lies.",
+        "category": "COURT BEAT",
+        "source": "Futurism",
+        "url": "https://futurism.com/future-society/crypto-bro-280-years-prison-crimes",
+        "image": "https://futurism.com/wp-content/uploads/2026/08/crypto-bro-280-years-prison-crimes.jpg?quality=85&w=1200",
+        "publishedAt": "2026-08-30T11:03:00Z"
       },
       {
-        "headline": "Austrian Mountain Town Strikes Gold in AI Boom",
-        "summary": "The small Austrian town of Leoben has found a crucial niche in the global AI race thanks to electronics manufacturer AT&S. The firm produces specialized IC substrates that connect advanced AI chips to power supplies.",
-        "category": "Industry",
-        "source": "Digital Journal",
-        "url": "https://www.digitaljournal.com/article/austrian-mountain-town-finds-niche-in-ai-boom/",
-        "image": "https://www.digitaljournal.com/wp-content/uploads/2026/08/9c5d385a57794d94b6de3df7da0fccdf1c40a6ae.jpg",
-        "publishedAt": "2026-08-23T05:39:39Z"
+        "headline": "Deepfake videos of late-night hosts run rampant online",
+        "summary": "Digital impostors of late-night stars Jimmy Kimmel and Jon Stewart are spreading across social media, sparking fears over political manipulation. Experts warn that these celebrity deepfakes are easier than ever to manufacture, threatening to muddy the waters of public discourse. The convincing fakes have left viewers wondering what is real and what is digital trickery.",
+        "category": "BOGUS BROADCASTS",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/08/30/nx-s1-5943190/jimmy-kimmel-deepfake-jon-stewart-abc-ai",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1400/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8f%2Ff9%2Ff43ba5e14ffb84ee1eea993d310c%2Fkimmel-ailabel.png",
+        "publishedAt": "2026-08-30T11:00:00Z"
       },
       {
-        "headline": "Automated Air Traffic Control Raises Safety Concerns",
-        "summary": "While automation aims to ease the burden on air traffic controllers, experts warn it could increase workloads and lead to critical errors. Regulators are struggling to keep pace with the swift integration of these systems.",
-        "category": "Regulation",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/air-traffic-control-is-becoming-more-automated-is-regulation-keeping-up-288444",
-        "image": "https://images.theconversation.com/files/752317/original/file-20260805-50-jaawtg.jpg?ixlib=rb-4.1.1&rect=0%2C100%2C1200%2C600&q=45&auto=format&w=1356&h=668&fit=crop",
-        "publishedAt": "2026-08-23T06:05:43Z"
+        "headline": "Cashfree deploys AI agents to rescue abandoned shopping carts",
+        "summary": "Financial service firm Cashfree has launched a fleet of autonomous agents to help online merchants recover billions in lost revenue. These tireless digital clerks are designed to chase down abandoned carts, retry failed payments, and settle disputes without human intervention. The company hopes the automated push will reclaim lost transaction volume.",
+        "category": "RETAIL TRADE",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/companies/news/cashfree-rolls-out-ai-agents-for-merchants-to-automate-payment-operations-126083000455_1.html",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-09/12/thumb/fitandfill/1200X628/1694501931-4011.jpg",
+        "publishedAt": "2026-08-30T11:42:46Z"
+      },
+      {
+        "headline": "New tool strips watermark evidence from AI files",
+        "summary": "A new open-source utility named watermarks-remover has debuted, designed to strip multi-vendor provenance marks from digital files. The tool cleanses images, documents, and web pages of metadata and statistical markers meant to identify AI-generated content. The release threatens to undermine industry efforts to label and track machine-made media.",
+        "category": "CYBER WARFARE",
+        "source": "Kitploit.com",
+        "url": "https://kitploit.com/en/posts/github-guillaumemeyer-watermarks-remover-v050",
+        "image": "https://assets.kitploit.com/production/public/tools/50147/40a7e33f5296be9a16386d0bfd26dff17231287e1613a0b561a547e00b750bec.png",
+        "publishedAt": "2026-08-30T12:20:52Z"
       }
     ]
   }
