@@ -1,129 +1,129 @@
 {
-  "issueDate": "2026-09-07T11:36:02.841Z",
-  "issueLabel": "September 7, 2026",
-  "volume": 36,
+  "issueDate": "2026-09-14T11:49:07.069Z",
+  "issueLabel": "September 14, 2026",
+  "volume": 37,
   "automotive": {
     "lead": {
-      "headline": "FEDERAL WATCHDOGS PROBE MUSK’S GOLDEN CYBERCAB LAUNCH",
-      "summary": "Uncle Sam is turning up the heat on Elon Musk's self-driving dreams. The National Highway Traffic Safety Administration has launched an official audit query into Tesla's newly debuted steering-wheel-free Cybercab. Regulators are demanding hard technical data on how the electric vehicle giant certified the safety of its autonomous fleet. The sudden federal scrutiny sent shockwaves through Wall Street, putting a damper on the highly anticipated vehicle launch.",
-      "category": "REGULATION",
-      "source": "Boston Herald",
-      "url": "https://www.bostonherald.com/2026/09/05/teslas-cybercab-launch-triggers-federal-safety-probe/",
-      "image": "https://www.bostonherald.com/wp-content/uploads/2026/09/BIZ-TESLA-CYBERCAB-FILEPIC-LA.jpg?w=3000&h=1944",
-      "publishedAt": "2026-09-05T19:47:52Z"
+      "headline": "ROBOTAXI SNITCHES ON JUVENILES ARMED WITH ILLEGAL GHOST GUN!",
+      "summary": "A driverless Waymo cab turned informant in San Francisco, alerting local police to passengers carrying a loaded, illegal AR-style ghost gun. Officers conducted a high-risk vehicle stop on the autonomous cruiser and arrested two juvenile riders. This dramatic bust highlights the growing surveillance capabilities of robotaxis patrolling city streets.",
+      "category": "CRIME & ROBOTS",
+      "source": "Tom's Hardware UK",
+      "url": "https://www.tomshardware.com/tech-industry/drones/waymo-robotaxi-calls-cops-on-riders-handling-loaded-ar-style-ghost-gun-waymo-alerted-san-francisco-police-then-juvenile-riders-were-stopped-and-arrested",
+      "image": "https://cdn.mos.cms.futurecdn.net/rHMgu2S3YA5XhAf4QbtgoQ-1920-80.jpg",
+      "publishedAt": "2026-09-13T11:16:11Z"
     },
     "stories": [
       {
-        "headline": "Blind Passenger Tests Tesla’s Steering-Wheel-Free Robotaxi",
-        "summary": "Gary Moss, a man who lost his sight five years ago, took a spin in Tesla's futuristic, steering-wheel-free robotaxi. While Moss described the journey as a comfortable glimpse into regaining his personal independence, he noted the system is still far from perfect. The test highlights the immense, life-changing potential of autonomous vehicles for disabled passengers.",
-        "category": "USER EXPERIENCE",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/tesla-cybercab-robotaxi-rider-experience-david-moss-accessibility-blind-dad-2026-9#article",
-        "image": "https://i.insider.com/6a9b62fa4f6138b37ff32ef1?width=1200&format=jpeg",
-        "publishedAt": "2026-09-06T08:11:01Z"
+        "headline": "HYUNDAI TARGETS TESLA WITH NEW ARTRIA AI SYSTEM",
+        "summary": "South Korean auto giant Hyundai is gearing up to challenge Tesla's self-driving dominance. The firm announced plans to launch its proprietary \"Artria AI\" autonomous system by 2029, relying on continuous data training to conquer edge-case driving scenarios.",
+        "category": "AUTO TECH",
+        "source": "Koreajoongangdaily.com",
+        "url": "https://www.koreajoongangdaily.com/business/hyundai-bets-slow-and-steady-will-win-selfdriving-race-expects-to-overtake-tesla-in-five-years/12871125",
+        "image": "https://image.koreajoongangdaily.com/12871938.jpg?imageId=12871938&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-09-13T00:30:38Z"
       },
       {
-        "headline": "Cosmic Solar Storms Threaten To Crash Autonomous Cars",
-        "summary": "Scientists warn that threats from deep space could bring self-driving fleets to a grinding halt. A retrospective look at a November 2025 solar storm reveals that celestial disruptions can interfere with vehicle sensors and potentially cause catastrophic crashes. The findings suggest that developers must look to the skies to truly secure the safety of autonomous transit on Earth.",
-        "category": "SAFETY",
-        "source": "Unexplained-mysteries.com",
-        "url": "https://www.unexplained-mysteries.com/news/400144/solar-storm-disruption-may-cause-self-driving-vehicles-to-crash",
-        "image": "https://www.unexplained-mysteries.com/images/news_large_retina/news-hq-northern-lights.jpg",
-        "publishedAt": "2026-09-06T10:08:06Z"
+        "headline": "CYBERCABS SPOTTED WITH STEERING WHEELS IN AUSTIN",
+        "summary": "Tesla’s promise of a fully autonomous future hit a bump as reports reveal many Cybercabs still sport traditional steering wheels. With only 45 cramped vehicles currently operating in Austin, the electric vehicle pioneer faces a steep climb to realize its grand robotaxi vision.",
+        "category": "DETROIT NEWS",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/3e423be85521738d",
+        "image": "https://biztoc.com/cdn/3e423be85521738d_s.webp",
+        "publishedAt": "2026-09-13T04:29:34Z"
       },
       {
-        "headline": "Google and Detroit Clash Over Driverless Future",
-        "summary": "A fierce battle of philosophies is brewing in the race to conquer the driverless frontier. While tech titan Google pushes for immediate, fully autonomous systems, traditional car manufacturers are taking a slow, incremental approach. Industry experts warn this divergent split could delay safety standards and leave consumers caught in the middle.",
-        "category": "INDUSTRY WAR",
-        "source": "Inautonews.com",
-        "url": "https://www.inautonews.com/us-autonomous-vehicle-expert-says-google-and-automakers-use-different-paths-towards-same-goal",
-        "image": "https://www.inautonews.com/media/licensed/2026/09/googles-push-accelerates-autonomous-car-development-8e7c5c4f.jpg?w=1536",
-        "publishedAt": "2026-09-06T03:19:36Z"
+        "headline": "TESLA TEASES LONG-DELAYED ROADSTER REVEAL FOR OCTOBER",
+        "summary": "Nearly a decade after its first prototype debut, Tesla is teasing an October 1 reveal for its next-generation Roadster. A dramatic \"Go for launch\" teaser image has reignited excitement, though production timelines and pricing remain shrouded in mystery.",
+        "category": "SPEED DEMONS",
+        "source": "Electrek",
+        "url": "http://electrek.co/2026/09/12/tesla-roadster-october-1-reveal-teaser/",
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/image.jpg?quality=82&strip=all&resize=1200,628",
+        "publishedAt": "2026-09-12T19:15:44Z"
       },
       {
-        "headline": "Congress Seeks Single Federal Rulebook for Self-Driving Cars",
-        "summary": "House Republicans are pushing a new draft bill designed to strip local municipalities of their regulatory teeth over self-driving vehicles. The proposed legislation would establish a singular, federal standard for autonomous driving, preventing states and cities from passing their own patchwork safety laws. Proponents argue the move will accelerate innovation, while critics fear a loss of local safety oversight.",
-        "category": "LEGISLATION",
-        "source": "Inautonews.com",
-        "url": "https://www.inautonews.com/republican-law-puts-autonomous-rules-in-the-hands-of-the-government",
-        "image": "https://www.inautonews.com/media/licensed/2026/09/us-republican-bill-seeks-federal-control-over-autonomous-veh-dbb7d64a.jpg?w=1536",
-        "publishedAt": "2026-09-06T03:07:29Z"
+        "headline": "MIT TEACHES ROBOT CARS TO EXPLAIN THEMSELVES",
+        "summary": "Brilliant minds at MIT have developed a novel program that allows autonomous vehicles to explain their decisions to human passengers. By telling riders exactly what they see and why they are acting, researchers hope to build trust between man and machine.",
+        "category": "BRAIN TRUST",
+        "source": "Jalopnik",
+        "url": "https://www.jalopnik.com/2256143/mit-study-improving-av-talking-car/",
+        "image": "https://www.jalopnik.com/img/gallery/new-mit-study-explores-improving-autonomous-driving-tech-by-letting-the-car-tell-you-what-its-doing-and-why/l-intro-1789146497.jpg",
+        "publishedAt": "2026-09-12T21:05:00Z"
       },
       {
-        "headline": "India Gets New Baleno Hatchback Packed With Level 2 ADAS",
-        "summary": "Maruti Suzuki has officially launched its updated Baleno hatchback in the competitive Indian market, starting at a modest ₹6.09 lakh. The refreshed model boasts a new Z12E petrol engine and Level 2 advanced driver-assistance systems to tempt safety-minded buyers. The automotive giant is betting big on premium features to capture a larger share of the surging domestic hatchback segment.",
-        "category": "GLOBAL MARKET",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/city/chennai/maruti-suzuki-launches-new-baleno-at-6-09-lakh-with-level-2-adas/articleshow/133811129.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133811127,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-05T17:52:55Z"
+        "headline": "APPLE SHELVES PLANS FOR COVETED ELECTRIC CAR",
+        "summary": "The tech titan in Cupertino has hit the brakes on its highly anticipated electric vehicle project. Apple has officially postponed the launch of its electric car, marking a quiet retreat from the brutal automotive arena.",
+        "category": "TECH RETREAT",
+        "source": "BOL News",
+        "url": "https://www.bolnews.com/business/apple-postpones-launch-of-electric-car",
+        "image": "https://www.bolnews.com/uploads/articles/2087341/xl.webp",
+        "publishedAt": "2026-09-13T11:19:49Z"
       }
     ]
   },
   "general": {
     "lead": {
-      "headline": "OPENAI APOLOGIZES FOR MESSY GPT-6 ASTRA ROLLOUT DELAYS",
-      "summary": "OpenAI is eating humble pie today after a chaotic rollout of its brand-new GPT-6 Astra model left high-paying customers out in the cold. The tech pioneer issued a formal apology to users who faced massive access delays despite shelling out top dollar for the service. While the firm promises Astra delivers revolutionary advances in coding and computer automation, the launch has been severely bruised by technical bottlenecks. This latest stumble highlights the immense strain on artificial intelligence infrastructure as rivals race for dominance.",
-      "category": "TECH GIANT",
-      "source": "Eastleighvoice.co.ke",
-      "url": "https://eastleighvoice.co.ke/business/397575/openai-apologises-after-messy-rollout-of-gpt-6-astra-leaves-paying-users-waiting",
-      "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/09/eastleighvoice-co-ke-2026-september-06-124500.webp",
-      "publishedAt": "2026-09-06T11:00:38Z"
+      "headline": "ALTMAN FORESEES NOBEL PEACE PRIZE FOR TRUMP-XI AI TREATY!",
+      "summary": "OpenAI chieftain Sam Altman turned heads by suggesting Donald Trump and Xi Jinping could clinch a Nobel Peace Prize. Altman envisions a historic US-China AI safety treaty that would set global standards and cool geopolitical tensions. Critics and watchdogs are closely monitoring this bold diplomatic prediction as the race for AI supremacy heats up.",
+      "category": "GLOBAL POLITICS",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/altman-trump-xi-nobel-prize-ai-safety/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/13073942/library-sam-altman-says-trump-and-xi-could-win-nobel-peace-prize-800x450.png",
+      "publishedAt": "2026-09-13T11:39:45Z"
     },
     "stories": [
       {
-        "headline": "Tech Giants Projected to Spend $1.3 Trillion on AI Capex",
-        "summary": "Six tech behemoths driving the modern artificial intelligence boom are on track to spend a staggering $1.3 trillion on capital expenditures by 2027. Yet, financial analysts warn that only one of these high-spending hyperscalers is projected to maintain a positive free cash flow. This massive spending spree raises serious questions about the long-term profitability of the current silicon gold rush.",
-        "category": "FINANCE",
+        "headline": "ANTHROPIC PLEDGES HALF-TRILLION DOLLARS FOR CLOUD COMPUTE",
+        "summary": "AI startup Anthropic is betting the farm on infrastructure with a staggering $517 billion commitment for cloud and compute deals over the next decade. The massive war chest signals a ferocious battle ahead with tech giants for hardware and processing power.",
+        "category": "BIG BUSINESS",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/anthropic-517b-cloud-compute-deals/",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/13073432/library-anthropic-commits-to-517b-in-cloud-and-compute-deals-ove-800x450.png",
+        "publishedAt": "2026-09-13T11:34:35Z"
+      },
+      {
+        "headline": "OPENAI DROPS SPONSORSHIP OF CALTECH MATH COMPETITION",
+        "summary": "A bitter feud has erupted between OpenAI and the academic community after the AI firm yanked its support for the Caltech Mathathon. While mathematicians decry the move as destructive, OpenAI representatives defended the decision, calling it a strategic disruption.",
+        "category": "SCHOOLYARD BRAWL",
         "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/f9a64c825e196402",
-        "image": "https://biztoc.com/cdn/f9a64c825e196402_s.webp",
-        "publishedAt": "2026-09-06T11:07:32Z"
+        "url": "https://biztoc.com/x/fda964d8a443e54d",
+        "image": "https://biztoc.com/cdn/fda964d8a443e54d_s.webp",
+        "publishedAt": "2026-09-13T11:45:31Z"
       },
       {
-        "headline": "New York and Los Angeles Ban AI in Classroom Crackdown",
-        "summary": "The country's two largest school districts, New York City and Los Angeles, are kicking off the academic year with a strict crackdown on artificial intelligence. Under the new guidelines, students will be barred from using generative AI tools for the vast majority of classroom assignments. The rules highlight a growing national anxiety over academic integrity and the rapid intrusion of automated tech into youth education.",
-        "category": "EDUCATION",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/1310b304ac637114",
-        "image": "https://biztoc.com/cdn/1310b304ac637114_s.webp",
-        "publishedAt": "2026-09-06T10:20:47Z"
+        "headline": "DEEPMIND SAFETY EXPERT RESIGNS OVER SUPERINTELLIGENCE DANGERS",
+        "summary": "Top researcher Josh Engels has walked away from Google's DeepMind, warning that the stakes of advanced AI are simply too high. Engels turned down lucrative offers from rival firms to sound the alarm on the rapid, unchecked rise of superintelligent machines.",
+        "category": "INSIDER DEFECTION",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepmind-ai-safety-researcher-josh-engels-resigns-warns-of-superintelligence-risks/articleshow/134196333.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-48320,resizemode-75,msid-134196333/tech/artificial-intelligence/deepmind-ai-safety-researcher-josh-engels-resigns-warns-of-superintelligence-risks.jpg",
+        "publishedAt": "2026-09-13T11:11:08Z"
       },
       {
-        "headline": "OpenAI Executive Buys Lakeside Camp to Save Bald Eagles",
-        "summary": "OpenAI co-founder Greg Brockman and his wife Anna have put up $5.5 million to purchase a historic 63-acre shoreline property at Big Bear Lake. The generous gift effectively blocks a planned 50-home marina development, preserving a critical nesting ground for bald eagles. The saved habitat is home to the famous Jackie and Shadow eagles, whose livestreamed lives have captivated millions of viewers worldwide.",
-        "category": "PHILANTHROPY",
-        "source": "Space Daily",
-        "url": "https://spacedaily.com/j-openai-cofounder-greg-brockman-anna-5-5-million-moon-camp-big-bear-jackie-shadow/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/09/usfws-bear-valley-bald-eagle-menke-1024x427.jpg",
-        "publishedAt": "2026-09-06T10:56:44Z"
-      },
-      {
-        "headline": "Seoul Forum Asks if AI Can Speed Up Drug Discovery",
-        "summary": "A prestigious global forum in Seoul is set to gather top tech executives to tackle one of medicine's greatest challenges: shortening drug development timelines. Experts will investigate whether artificial intelligence can shave an entire decade off the traditional, painstakingly slow process of bringing new therapies to market. The event will also explore AI's disruptive footprint across architecture, art, and entertainment.",
-        "category": "MEDICINE",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/ai-forum-seoul-drug-development-impact-1875086",
-        "image": "https://d.ibtimes.com.au/en/full/1858825/ai-data.jpg",
-        "publishedAt": "2026-09-06T10:49:44Z"
-      },
-      {
-        "headline": "Billionaires Launch Ad Campaign to Defend AI Data Centers",
-        "summary": "A coalition of tech billionaires is pouring massive sums of cash into a new public relations blitz defending controversial AI data centers. The high-priced advertisement campaigns seek to counter growing local opposition and convince skeptical communities that massive computing hubs are vital for America's economic future. Industry leaders argue that the stakes are too high to allow critical infrastructure to be derailed by public backlash.",
-        "category": "PROPAGANDA",
+        "headline": "SAM ALTMAN SETS SIGHTS ON AMERICAN POWER GRID",
+        "summary": "Fresh off high-profile tech collaborations, OpenAI boss Sam Altman is now making moves to secure a foothold in the US electrical grid. The aggressive expansion highlights the insatiable energy appetite of next-generation artificial intelligence models.",
+        "category": "ENERGY GRAB",
         "source": "Futurism",
-        "url": "https://futurism.com/future-society/billionaires-tech-executives-ai-data-centers-ad-blitz",
-        "image": "https://futurism.com/wp-content/uploads/2026/09/billionaires-tech-executives-ai-data-centers-ad-blitz.jpg?quality=85&w=1200",
-        "publishedAt": "2026-09-06T10:02:00Z"
+        "url": "https://futurism.com/artificial-intelligence/openai-sam-altman-chatgpt-hack-electrical-grid-hype",
+        "image": "https://futurism.com/wp-content/uploads/2026/09/openai-sam-altman-chatgpt-hack-electrical-grid-hype.jpg?quality=85&w=1200",
+        "publishedAt": "2026-09-13T11:02:00Z"
       },
       {
-        "headline": "AI Infrastructure Costs Threaten to Drive Up iPhone Prices",
-        "summary": "Consumer electronics may soon feel the pinch of \"AI inflation\" as skyrocketing infrastructure costs hit manufacturing supply chains. Analysts warn that Apple's upcoming iPhone 18 lineup could see significant price hikes as a direct result of surging demand for specialized artificial intelligence hardware. The trend suggests that the costly race to build out global AI networks will ultimately be paid for by everyday shoppers.",
-        "category": "CONSUMER TECH",
+        "headline": "PRESIDENT XI PLEDGES BRICS OPEN-SOURCE AI COOPERATION",
+        "summary": "Speaking at the New Delhi summit, Chinese President Xi Jinping announced plans for China to lead a new open-source AI community for developing nations. The move aims to foster tech collaboration among BRICS countries and challenge Western dominance in the field.",
+        "category": "WORLD STAGE",
         "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/325b7fab45c566be",
-        "image": "https://biztoc.com/cdn/325b7fab45c566be_s.webp",
-        "publishedAt": "2026-09-06T10:50:04Z"
+        "url": "https://biztoc.com/x/6b46c211b87a8163",
+        "image": "https://biztoc.com/cdn/6b46c211b87a8163_s.webp",
+        "publishedAt": "2026-09-13T11:30:05Z"
+      },
+      {
+        "headline": "SENIOR-ASSISTING HOME ROBOT STIRS PRIVACY CONCERNS",
+        "summary": "A new rolling domestic robot designed by Tuya Smart promises to help elderly citizens by alerting family members during emergencies. However, the high-tech companion is drawing scrutiny from privacy advocates as key questions about data security remain unanswered.",
+        "category": "HOME FRONT",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/tech/ai-robot-seniors-alert-family-call-help",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/ai-senior-robot-001.jpg",
+        "publishedAt": "2026-09-13T11:27:48Z"
       }
     ]
   }
